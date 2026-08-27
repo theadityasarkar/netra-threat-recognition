@@ -59,12 +59,16 @@ from src.ui.pages import (
 from src.ui.state import cached_data
 from src.ui.theme import inject_theme, masthead
 
-st.set_page_config(
-    page_title=f"{APP_NAME} · Criminal Network Analysis",
-    page_icon=APP_ICON,
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
+try:
+    st.set_page_config(
+        page_title=f"{APP_NAME} · Criminal Network Analysis",
+        page_icon=APP_ICON,
+        layout="wide",
+        initial_sidebar_state="expanded",
+    )
+except Exception:
+    pass
+
 inject_theme()
 
 
@@ -432,6 +436,7 @@ def _safe_render(render_fn, result, label: str) -> None:
 # ──────────────────────────────────────────────────────────────────────────────
 
 def main() -> None:
+    inject_theme()
     state.init_state()
     masthead()
     cfg = sidebar()
