@@ -1,8 +1,0 @@
-# System (apt) packages for Streamlit Community Cloud.
-#
-# NETRA deliberately needs NONE: every dependency in requirements.txt ships a
-# prebuilt manylinux wheel (streamlit, pandas, numpy, networkx, plotly,
-# scikit-learn, reportlab), so there is nothing to compile and no shared library
-# to apt-install. This file is kept — empty of packages — because its presence
-# documents that the omission is intentional, not an oversight. Streamlit reads it,
-# finds no package lines, and installs nothing, which is exactly correct here.
