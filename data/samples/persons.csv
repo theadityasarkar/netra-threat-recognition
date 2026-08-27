@@ -1,0 +1,235 @@
+person_id,name,alias,age,gender,city,state,occupation,prior_offences,offence_types,first_arrest_year,last_activity,status,risk_category
+P0001,Pankaj Ansari,Bada Pankaj; Guru Pankaj,52,M,Nagpur,Maharashtra,Money Exchange Operator,13,Narcotics Trafficking,2018,2025-06-26,Active,High
+P0002,Rohit Dutta,Kala Rohit,46,M,Lucknow,Uttar Pradesh,Money Exchange Operator,2,Money Laundering; Narcotics Trafficking,2011,2025-02-20,Active,High
+P0003,Rajesh Nair,Kaka Rajesh,35,M,Nagpur,Maharashtra,Jewellery Shop Assistant,8,Narcotics Trafficking,2022,2024-08-04,Active,High
+P0004,Rajesh Pillai,Munna Rajesh,41,M,Pune,Maharashtra,Fishing Boat Owner,7,Illegal Betting; Money Laundering; Narcotics Trafficking,2017,2026-07-03,In Judicial Custody,High
+P0005,Kavita Mehta,Ustad Kavita; Chacha Kavita,42,M,Mumbai,Maharashtra,Chartered Accountant,6,Narcotics Trafficking,2020,2024-12-09,In Judicial Custody,Critical
+P0006,Rajesh Malhotra,Chacha Rajesh,35,M,Pune,Maharashtra,Hotel Owner,4,Money Laundering; Narcotics Trafficking,2018,2025-11-15,In Judicial Custody,High
+P0007,Harish Singh,Bhai Harish,47,M,Nagpur,Maharashtra,Jewellery Shop Assistant,4,Money Laundering; Narcotics Trafficking,2011,2026-06-08,Absconding,High
+P0008,Ravi Deshmukh,Tiger Ravi; Doctor Ravi,42,M,Nagpur,Maharashtra,Construction Contractor,8,Money Laundering; Narcotics Trafficking,2008,2025-11-01,Absconding,High
+P0009,Nitin Mishra,,35,F,Nagpur,Maharashtra,Chartered Accountant,5,Money Laundering; Narcotics Trafficking,2008,2024-09-03,Active,Critical
+P0010,Krishna Ansari,,29,M,Pune,Maharashtra,Fishing Boat Owner,3,Money Laundering; Narcotics Trafficking,2023,2023-06-19,On Bail,High
+P0011,Sunita Bose,,28,M,Nagpur,Maharashtra,Mobile Recharge Shop,5,Money Laundering; Narcotics Trafficking,2005,2026-04-16,In Judicial Custody,Critical
+P0012,Rajesh Deshmukh,,39,F,Nagpur,Maharashtra,Unemployed,6,Money Laundering; Narcotics Trafficking; Obscene Content Distribution,2007,2025-04-24,Active,High
+P0013,Anil Naik,,40,M,Patna,Bihar,Construction Contractor,3,Money Laundering; Narcotics Trafficking,2023,2026-02-21,On Bail,Medium
+P0014,Yusuf Sharma,,35,M,Nagpur,Maharashtra,Real Estate Agent,5,Narcotics Trafficking,2006,2026-03-01,On Bail,High
+P0015,Gopal Mishra,,25,M,Mumbai,Maharashtra,Chartered Accountant,2,Narcotics Trafficking,2014,2025-12-01,Active,High
+P0016,Kabir Mehta,,23,M,Pune,Maharashtra,Cattle Trader,3,Narcotics Trafficking,2008,2026-02-13,On Bail,High
+P0017,Nitin Rathore,,22,M,Patna,Bihar,Chartered Accountant,5,Money Laundering; Narcotics Trafficking,2022,2026-02-21,Under Surveillance,High
+P0018,Devendra Shetty,,35,M,Pune,Maharashtra,Pharmacy Assistant,4,Money Laundering; Narcotics Trafficking; Vehicle Theft Ring,2020,2025-03-10,In Judicial Custody,Medium
+P0019,Anil Malhotra,,34,M,Mumbai,Maharashtra,Money Exchange Operator,4,Narcotics Trafficking,2015,2024-12-21,Active,Low
+P0020,Altaf Joshi,,22,M,Mumbai,Maharashtra,Security Guard,5,Human Trafficking; Narcotics Trafficking,2007,2024-06-04,Active,Medium
+P0021,Rohit Ansari,,23,M,Pune,Maharashtra,Mobile Recharge Shop,4,Money Laundering; Narcotics Trafficking,2011,2025-01-14,Active,High
+P0022,Sameena Malhotra,Chhota Sameena,33,M,Pune,Maharashtra,Auto Driver,4,Extortion; Narcotics Trafficking,2012,2021-11-24,Deceased,Low
+P0023,Kavita Naik,,20,M,Pune,Maharashtra,Real Estate Agent,4,Money Laundering; Narcotics Trafficking,2015,2026-05-20,Active,Medium
+P0024,Devendra Malhotra,,33,M,Pune,Maharashtra,Construction Contractor,1,Money Laundering; Narcotics Trafficking,2008,2026-10-27,Under Surveillance,Low
+P0025,Pankaj Solanki,,32,M,Coimbatore,Tamil Nadu,Unemployed,2,Narcotics Trafficking,2008,2026-08-20,Active,Medium
+P0026,Sameer Naik,Raja Sameer,30,M,Hyderabad,Telangana,Auto Driver,4,Narcotics Trafficking,2023,2026-10-27,Active,Low
+P0027,Mahesh Naik,Kala Mahesh,32,M,Pune,Maharashtra,Real Estate Agent,2,Money Laundering; Narcotics Trafficking,2013,2025-06-07,On Bail,Medium
+P0028,Meera Reddy,,25,M,Nagpur,Maharashtra,Chartered Accountant,3,Narcotics Trafficking,2019,2026-08-08,Active,Low
+P0029,Farhan Reddy,,20,F,Nagpur,Maharashtra,Cyber Cafe Owner,0,Narcotics Trafficking,2018,2025-06-04,Deceased,Medium
+P0030,Salim Patel,,24,M,Mumbai,Maharashtra,Scrap Dealer,0,Narcotics Trafficking,2015,2024-09-24,Under Surveillance,Medium
+P0031,Anil Gowda,,22,M,Nagpur,Maharashtra,Unemployed,1,Narcotics Trafficking,2023,2024-02-19,In Judicial Custody,Low
+P0032,Firoz Barman,Tiger Firoz,32,M,Mumbai,Maharashtra,Auto Driver,4,Money Laundering; Narcotics Trafficking,2019,2026-01-01,Active,High
+P0033,Lata Singh,,23,M,Nagpur,Maharashtra,Fishing Boat Owner,4,Narcotics Trafficking,2021,2026-06-02,Active,Medium
+P0034,Anjali Dutta,,21,M,Pune,Maharashtra,Auto Driver,4,Money Laundering; Narcotics Trafficking,2018,2025-12-21,Active,Medium
+P0035,Manoj Saxena,,28,F,Pune,Maharashtra,Fishing Boat Owner,0,Money Laundering; Narcotics Trafficking,2016,2025-04-18,Active,Low
+P0036,Anil Malhotra,,34,M,Pune,Maharashtra,Travel Agent,2,Money Laundering; Narcotics Trafficking,2022,2026-06-04,Active,High
+P0037,Sunil Malhotra,,26,M,Nagpur,Maharashtra,Transport Operator,2,Money Laundering; Narcotics Trafficking,2023,2025-12-02,Under Surveillance,High
+P0038,Krishna Joshi,,34,M,Pune,Maharashtra,Money Exchange Operator,2,Money Laundering; Narcotics Trafficking,2017,2024-06-15,Under Surveillance,Medium
+P0039,Bhupinder Barman,,21,M,Nagpur,Maharashtra,Transport Operator,2,Narcotics Trafficking,2014,2026-01-04,On Bail,High
+P0040,Prakash Dutta,Ustad Prakash,29,M,Mumbai,Maharashtra,Money Exchange Operator,3,Money Laundering; Narcotics Trafficking,2018,2026-09-05,Active,High
+P0041,Sameena Khan,,27,M,Nagpur,Maharashtra,Hotel Owner,3,Narcotics Trafficking,2018,2025-01-19,Under Surveillance,High
+P0042,Salim Thakur,,27,M,Mumbai,Maharashtra,Construction Contractor,4,Narcotics Trafficking; Trafficking of Women,2013,2024-01-24,Under Surveillance,Low
+P0043,Yusuf Chauhan,,23,M,Pune,Maharashtra,Fishing Boat Owner,1,Money Laundering; Narcotics Trafficking,2023,2025-01-03,On Bail,High
+P0044,Deepak Malhotra,,25,F,Nagpur,Maharashtra,Money Exchange Operator,3,Money Laundering; Narcotics Trafficking,2011,2024-06-15,On Bail,Low
+P0045,Anil Mishra,Ustad Anil; Ustad Anil,46,M,Jaipur,Rajasthan,Auto Driver,10,Arms Smuggling; Counterfeit Currency,2023,2026-05-05,Active,Critical
+P0046,Rukmini Qureshi,Doctor Rukmini,45,F,Amritsar,Punjab,Money Exchange Operator,1,Arms Smuggling; Counterfeit Currency,2014,2025-10-18,Absconding,Medium
+P0047,Mahesh Deshmukh,Seth Mahesh,47,M,Bengaluru,Karnataka,Chartered Accountant,4,Arms Smuggling,2017,2025-06-28,Active,Critical
+P0048,Anjali Sethi,Ustad Anjali; Bhai Anjali,34,M,Delhi,Delhi,Travel Agent,6,Arms Smuggling,2011,2026-01-23,In Judicial Custody,Critical
+P0049,Rukmini Ansari,Kaka Rukmini; Chhota Rukmini,38,M,Amritsar,Punjab,Scrap Dealer,6,Arms Smuggling,2007,2024-11-21,Absconding,High
+P0050,Sameer Naik,Chacha Sameer,40,F,Ludhiana,Punjab,Import-Export Trader,5,Arms Smuggling; Counterfeit Currency,2017,2025-09-08,On Bail,Critical
+P0051,Farida Mehta,Doctor Farida,47,M,Amritsar,Punjab,Fishing Boat Owner,7,Arms Smuggling; Counterfeit Currency; Obscene Content Distribution,2017,2025-06-23,Active,Critical
+P0052,Nitin Patel,Pehelwan Nitin,41,M,Bengaluru,Karnataka,Scrap Dealer,4,Arms Smuggling,2012,2024-05-03,Active,Critical
+P0053,Lata Sethi,Doctor Lata,46,M,Varanasi,Uttar Pradesh,Mobile Recharge Shop,8,Arms Smuggling; Counterfeit Currency,2011,2026-07-10,Under Surveillance,High
+P0054,Krishna Naik,Seth Krishna,44,M,Ludhiana,Punjab,Chartered Accountant,5,Arms Smuggling; Counterfeit Currency,2005,2024-04-23,Under Surveillance,Critical
+P0055,Bhavna Mishra,,34,M,Bhubaneswar,Odisha,Truck Driver,7,Arms Smuggling; Counterfeit Currency,2011,2024-04-27,Under Surveillance,Medium
+P0056,Lata Deshmukh,Bada Lata,32,M,Amritsar,Punjab,Construction Contractor,3,Arms Smuggling; Counterfeit Currency,2020,2020-11-04,Active,High
+P0057,Manoj Rawat,,33,M,Ludhiana,Punjab,Construction Contractor,3,Arms Smuggling; Counterfeit Currency,2005,2018-07-08,Active,High
+P0058,Ravi Thakur,,27,M,Amritsar,Punjab,Hotel Owner,4,Arms Smuggling; Counterfeit Currency,2011,2024-03-27,Under Surveillance,High
+P0059,Farhan Naik,Chhota Farhan,35,M,Nagpur,Maharashtra,Travel Agent,8,Arms Smuggling; Counterfeit Currency; Cyber Fraud,2018,2025-02-16,On Bail,Critical
+P0060,Pooja Gowda,Seth Pooja,29,M,Pune,Maharashtra,Import-Export Trader,4,Arms Smuggling,2009,2026-12-03,Absconding,High
+P0061,Kabir Naik,,31,M,Amritsar,Punjab,Jewellery Shop Assistant,4,Arms Smuggling; Counterfeit Currency; Domestic Violence Ring,2011,2020-02-19,Absconding,Medium
+P0062,Nitin Barman,,30,M,Jaipur,Rajasthan,Auto Driver,1,Arms Smuggling; Online Sexual Harassment,2014,2024-01-26,Deceased,High
+P0063,Krishna Barman,,22,M,Ludhiana,Punjab,Auto Driver,4,Arms Smuggling; Counterfeit Currency; Illegal Betting,2016,2025-08-28,Active,Low
+P0064,Pooja Saxena,,36,M,Ludhiana,Punjab,Truck Driver,3,Arms Smuggling; Counterfeit Currency,2015,2026-04-22,Under Surveillance,Low
+P0065,Aarav Verma,,32,F,Jaipur,Rajasthan,Hotel Owner,5,Arms Smuggling,2006,2025-02-11,Active,Low
+P0066,Bhavna Barman,,33,M,Jaipur,Rajasthan,Jewellery Shop Assistant,4,Arms Smuggling,2012,2025-08-21,In Judicial Custody,Medium
+P0067,Farida Qureshi,,35,M,Jaipur,Rajasthan,Import-Export Trader,1,Arms Smuggling; Cyber Fraud,2008,2026-10-21,Under Surveillance,Low
+P0068,Altaf Dutta,,24,M,Amritsar,Punjab,Scrap Dealer,3,Arms Smuggling; Counterfeit Currency; Matrimonial Fraud,2011,2025-10-04,In Judicial Custody,High
+P0069,Sameena Deshmukh,Tiger Sameena,22,F,Ranchi,Jharkhand,Mobile Recharge Shop,2,Arms Smuggling; Counterfeit Currency; Vehicle Theft Ring,2014,2025-06-08,Under Surveillance,High
+P0070,Deepak Bhatt,Doctor Deepak,36,M,Ludhiana,Punjab,Truck Driver,2,Arms Smuggling,2019,2026-08-28,Active,Medium
+P0071,Anil Yadav,Guru Anil,33,M,Bengaluru,Karnataka,Travel Agent,3,Arms Smuggling; Counterfeit Currency,2015,2024-11-11,Absconding,Medium
+P0072,Rehana Malhotra,,29,M,Pune,Maharashtra,Cattle Trader,3,Arms Smuggling; Counterfeit Currency,2022,2022-04-05,Active,Low
+P0073,Suresh Singh,,20,M,Ranchi,Jharkhand,Jewellery Shop Assistant,3,Arms Smuggling; Counterfeit Currency,2011,2024-02-02,On Bail,Low
+P0074,Prakash Rathore,,34,M,Jaipur,Rajasthan,Hotel Owner,2,Arms Smuggling; Counterfeit Currency; Cyber Fraud,2023,2026-12-05,In Judicial Custody,High
+P0075,Nisha Verma,Kala Nisha,32,M,Jaipur,Rajasthan,Jewellery Shop Assistant,4,Arms Smuggling; Counterfeit Currency,2016,2025-03-24,Absconding,Low
+P0076,Pooja Nair,,23,M,Amritsar,Punjab,Travel Agent,0,Arms Smuggling; Counterfeit Currency,2017,2025-08-23,On Bail,Low
+P0077,Deepak Kapoor,,33,M,Ludhiana,Punjab,Cyber Cafe Owner,4,Arms Smuggling; Counterfeit Currency,2013,2024-06-12,Active,High
+P0078,Ravi Mehta,,26,M,Amritsar,Punjab,Travel Agent,3,Arms Smuggling; Counterfeit Currency; Matrimonial Fraud,2006,2026-08-02,On Bail,Low
+P0079,Bhavna Ansari,,30,M,Amritsar,Punjab,Truck Driver,1,Arms Smuggling; Counterfeit Currency,2023,2026-07-05,Under Surveillance,Low
+P0080,Suresh Sethi,,32,M,Amritsar,Punjab,Hotel Owner,2,Arms Smuggling; Counterfeit Currency,2017,2026-08-09,Active,High
+P0081,Sameena Saxena,,28,F,Ludhiana,Punjab,Cyber Cafe Owner,0,Arms Smuggling; Counterfeit Currency; Vehicle Theft Ring,2010,2026-11-21,In Judicial Custody,High
+P0082,Krishna Naik,,33,M,Ludhiana,Punjab,Hotel Owner,1,Arms Smuggling,2013,2020-07-12,In Judicial Custody,Low
+P0083,Rukmini Thakur,,34,M,Jaipur,Rajasthan,Chartered Accountant,3,Arms Smuggling,2014,2025-11-27,On Bail,Low
+P0084,Bhavna Kapoor,,26,M,Amritsar,Punjab,Travel Agent,2,Arms Smuggling; Counterfeit Currency,2017,2024-06-17,Active,Medium
+P0085,Nisha Dutta,Lambu Nisha,34,M,Amritsar,Punjab,Real Estate Agent,3,Arms Smuggling; Dowry Harassment,2019,2019-05-13,Active,Low
+P0086,Naveen Naik,,28,M,Guwahati,Assam,Hotel Owner,4,Arms Smuggling,2007,2024-08-13,On Bail,High
+P0087,Javed Dutta,,34,M,Jaipur,Rajasthan,Hotel Owner,3,Arms Smuggling,2005,2020-09-21,Active,High
+P0088,Salim Yadav,,22,F,Ludhiana,Punjab,Money Exchange Operator,1,Arms Smuggling,2019,2025-04-07,Absconding,Low
+P0089,Prakash Nair,,25,F,Ludhiana,Punjab,Unemployed,0,Arms Smuggling; Counterfeit Currency; Trafficking of Women,2006,2018-06-24,Active,Low
+P0090,Tarun Nair,Bada Tarun,28,M,Coimbatore,Tamil Nadu,Jewellery Shop Assistant,2,Arms Smuggling; Illegal Betting,2012,2025-04-10,Under Surveillance,Low
+P0091,Yusuf Joshi,,32,M,Amritsar,Punjab,Real Estate Agent,3,Arms Smuggling; Counterfeit Currency; Kidnapping,2008,2024-10-02,Deceased,Medium
+P0092,Devendra Ansari,,31,F,Mumbai,Maharashtra,Fishing Boat Owner,4,Arms Smuggling; Counterfeit Currency,2021,2026-04-08,In Judicial Custody,Low
+P0093,Harish Qureshi,Guru Harish,31,M,Ludhiana,Punjab,Travel Agent,1,Arms Smuggling; Counterfeit Currency,2014,2024-10-10,Under Surveillance,Medium
+P0094,Farhan Iyer,,33,M,Jaipur,Rajasthan,Security Guard,0,Arms Smuggling; Counterfeit Currency,2016,2026-10-05,Under Surveillance,Low
+P0095,Rukmini Pillai,,21,F,Ludhiana,Punjab,Real Estate Agent,2,Arms Smuggling,2008,2019-03-03,Active,Medium
+P0096,Devendra Iyer,,21,M,Amritsar,Punjab,Construction Contractor,1,Arms Smuggling; Counterfeit Currency,2012,2024-01-27,Active,Low
+P0097,Sunil Malhotra,,34,M,Delhi,Delhi,Truck Driver,4,Arms Smuggling; Counterfeit Currency,2013,2024-01-10,In Judicial Custody,Medium
+P0098,Devendra Panicker,,34,F,Jaipur,Rajasthan,Transport Operator,1,Arms Smuggling; Counterfeit Currency,2023,2025-02-19,Active,High
+P0099,Vikram Mishra,,26,M,Amritsar,Punjab,Travel Agent,2,Arms Smuggling,2020,2026-10-10,In Judicial Custody,High
+P0100,Rajesh Joshi,,28,M,Amritsar,Punjab,Money Exchange Operator,0,Arms Smuggling; Counterfeit Currency; Organised Robbery,2014,2026-11-07,Absconding,Low
+P0101,Rehana Solanki,,34,M,Jaipur,Rajasthan,Unemployed,4,Arms Smuggling,2005,2026-07-28,Active,High
+P0102,Sameer Sharma,,20,M,Jodhpur,Rajasthan,Travel Agent,1,Arms Smuggling; Counterfeit Currency,2013,2026-11-28,In Judicial Custody,Medium
+P0103,Dinesh Choudhury,,25,M,Ludhiana,Punjab,Money Exchange Operator,4,Arms Smuggling,2021,2024-12-25,Active,Medium
+P0104,Ashok Singh,,30,F,Amritsar,Punjab,Travel Agent,4,Arms Smuggling; Counterfeit Currency,2013,2021-10-07,Active,Low
+P0105,Imran Sharma,Guru Imran; Doctor Imran,48,M,Mangaluru,Karnataka,Fishing Boat Owner,7,Cyber Fraud,2020,2020-07-13,Active,High
+P0106,Suresh Rathore,Ustad Suresh; Guru Suresh,44,M,Chennai,Tamil Nadu,Money Exchange Operator,1,Cyber Fraud; Online Sexual Harassment,2016,2025-11-18,Under Surveillance,High
+P0107,Manoj Gowda,Doctor Manoj,37,F,Chennai,Tamil Nadu,Transport Operator,5,Cyber Fraud; Money Laundering,2018,2019-12-22,Active,High
+P0108,Rukmini Nair,Bada Rukmini,37,M,Chennai,Tamil Nadu,Unemployed,8,Cyber Fraud; Money Laundering; Organised Robbery,2008,2026-10-06,On Bail,Critical
+P0109,Nisha Patel,Munna Nisha,39,M,Bhubaneswar,Odisha,Cyber Cafe Owner,6,Cyber Fraud; Money Laundering,2022,2025-07-28,Deceased,High
+P0110,Ravi Ansari,Bhai Ravi,37,M,Mangaluru,Karnataka,Real Estate Agent,4,Cyber Fraud; Money Laundering,2006,2024-12-24,Active,Critical
+P0111,Prakash Rawat,,29,F,Mangaluru,Karnataka,Mobile Recharge Shop,8,Cyber Fraud,2015,2024-12-02,In Judicial Custody,Critical
+P0112,Pankaj Bhatt,,33,M,Bhubaneswar,Odisha,Import-Export Trader,6,Cyber Fraud,2007,2019-06-07,On Bail,High
+P0113,Zoya Patel,,38,M,Mangaluru,Karnataka,Hotel Owner,4,Cyber Fraud,2017,2026-09-26,On Bail,Critical
+P0114,Krishna Rathore,,30,M,Chennai,Tamil Nadu,Auto Driver,3,Cyber Fraud,2014,2025-12-02,Active,Low
+P0115,Rohit Mishra,,31,M,Srinagar,Jammu & Kashmir,Travel Agent,3,Cyber Fraud; Money Laundering,2018,2025-11-12,On Bail,Medium
+P0116,Gopal Ansari,,25,M,Hyderabad,Telangana,Cattle Trader,2,Cyber Fraud; Money Laundering,2012,2025-06-13,Absconding,Medium
+P0117,Suresh Kulkarni,,29,M,Bhubaneswar,Odisha,Hotel Owner,2,Cyber Fraud; Money Laundering,2020,2024-05-09,On Bail,High
+P0118,Mukesh Thakur,,28,M,Bengaluru,Karnataka,Money Exchange Operator,5,Cyber Fraud; Money Laundering,2007,2026-07-24,Active,Low
+P0119,Krishna Kapoor,,23,M,Mangaluru,Karnataka,Hotel Owner,4,Cyber Fraud; Money Laundering,2008,2024-05-11,Absconding,Low
+P0120,Prakash Joshi,,29,M,Bengaluru,Karnataka,Chartered Accountant,4,Cyber Fraud; Money Laundering,2012,2025-06-18,On Bail,Medium
+P0121,Dinesh Barman,,29,M,Indore,Madhya Pradesh,Security Guard,3,Cyber Fraud; Money Laundering,2006,2025-05-13,In Judicial Custody,Medium
+P0122,Mukesh Yadav,,26,M,Chennai,Tamil Nadu,Import-Export Trader,3,Cyber Fraud,2021,2026-04-24,On Bail,Medium
+P0123,Sunil Mehta,Tiger Sunil,34,F,Bengaluru,Karnataka,Travel Agent,3,Cyber Fraud; Money Laundering,2023,2026-03-21,Absconding,High
+P0124,Zoya Patel,,29,M,Lucknow,Uttar Pradesh,Jewellery Shop Assistant,4,Cyber Fraud,2010,2026-06-20,Absconding,High
+P0125,Anjali Thakur,,25,M,Mangaluru,Karnataka,Jewellery Shop Assistant,2,Cyber Fraud; Money Laundering,2008,2026-10-22,Under Surveillance,High
+P0126,Rakesh Chauhan,,26,M,Mangaluru,Karnataka,Chartered Accountant,2,Cyber Fraud,2019,2026-02-12,On Bail,Medium
+P0127,Meera Reddy,Raja Meera,32,M,Bengaluru,Karnataka,Real Estate Agent,1,Cyber Fraud; Money Laundering,2009,2024-03-26,Active,Medium
+P0128,Zahid Bose,,22,F,Bengaluru,Karnataka,Mobile Recharge Shop,4,Cyber Fraud,2009,2018-02-23,Absconding,Medium
+P0129,Sunil Thakur,,31,M,Mangaluru,Karnataka,Chartered Accountant,0,Cyber Fraud,2006,2025-08-04,On Bail,High
+P0130,Dinesh Verma,,27,M,Coimbatore,Tamil Nadu,Security Guard,4,Cyber Fraud,2013,2024-04-15,In Judicial Custody,Low
+P0131,Kavita Solanki,,25,M,Kochi,Kerala,Import-Export Trader,3,Cyber Fraud; Kidnapping; Money Laundering,2020,2024-09-23,Deceased,Low
+P0132,Rajesh Pillai,,33,M,Mangaluru,Karnataka,Hotel Owner,2,Cyber Fraud,2014,2026-08-28,Active,Medium
+P0133,Tarun Singh,,25,M,Bhubaneswar,Odisha,Security Guard,0,Cyber Fraud; Money Laundering,2011,2025-06-02,On Bail,Medium
+P0134,Naveen Malhotra,Dada Naveen; Ustad Naveen; Raja Naveen,44,M,Siliguri,West Bengal,Import-Export Trader,13,Human Trafficking,2010,2024-05-22,Active,High
+P0135,Sameena Ansari,Munna Sameena,52,M,Thiruvananthapuram,Kerala,Money Exchange Operator,1,Human Trafficking; Kidnapping,2014,2024-11-24,Under Surveillance,Medium
+P0136,Krishna Bose,Dada Krishna,34,F,Mangaluru,Karnataka,Cyber Cafe Owner,8,Cyber Fraud; Human Trafficking; Kidnapping,2008,2018-01-28,Active,Critical
+P0137,Krishna Khan,Raja Krishna,44,M,Surat,Gujarat,Mobile Recharge Shop,6,Human Trafficking,2014,2024-06-02,Absconding,Critical
+P0138,Zoya Singh,,28,M,Guwahati,Assam,Travel Agent,7,Human Trafficking; Obscene Content Distribution,2019,2026-03-13,On Bail,Medium
+P0139,Zahid Mehta,,27,M,Siliguri,West Bengal,Cattle Trader,6,Counterfeit Currency; Human Trafficking,2018,2025-09-18,Under Surveillance,Critical
+P0140,Bhavna Yadav,,35,M,Bengaluru,Karnataka,Money Exchange Operator,5,Human Trafficking; Kidnapping,2020,2025-06-03,On Bail,Medium
+P0141,Deepak Naik,,28,M,Siliguri,West Bengal,Real Estate Agent,3,Human Trafficking; Kidnapping,2011,2025-12-27,Active,Medium
+P0142,Sameer Mishra,,31,M,Pune,Maharashtra,Travel Agent,4,Human Trafficking; Kidnapping,2023,2024-12-05,Active,Medium
+P0143,Salim Mehta,,23,M,Mangaluru,Karnataka,Jewellery Shop Assistant,2,Human Trafficking,2011,2026-09-09,Active,Medium
+P0144,Bhavna Sharma,,23,F,Guwahati,Assam,Chartered Accountant,3,Human Trafficking,2021,2026-10-07,Under Surveillance,High
+P0145,Rukmini Barman,,31,M,Kolkata,West Bengal,Fishing Boat Owner,1,Human Trafficking; Kidnapping,2008,2025-05-12,Active,Low
+P0146,Nitin Ansari,,33,M,Kolkata,West Bengal,Travel Agent,0,Human Trafficking,2009,2021-04-04,In Judicial Custody,High
+P0147,Aarav Verma,,32,M,Kolkata,West Bengal,Fishing Boat Owner,4,Human Trafficking; Kidnapping,2009,2025-05-03,On Bail,Medium
+P0148,Devendra Mishra,,33,M,Guwahati,Assam,Money Exchange Operator,4,Human Trafficking,2008,2026-12-25,Active,Medium
+P0149,Anjali Yadav,Bada Anjali,30,M,Indore,Madhya Pradesh,Auto Driver,0,Human Trafficking; Kidnapping,2009,2025-07-23,Active,High
+P0150,Altaf Qureshi,Tiger Altaf,24,F,Siliguri,West Bengal,Truck Driver,2,Human Trafficking; Kidnapping,2020,2025-03-18,Active,Low
+P0151,Javed Sharma,,26,M,Jaipur,Rajasthan,Unemployed,1,Acid Attack Conspiracy; Human Trafficking,2006,2026-12-18,In Judicial Custody,Medium
+P0152,Anjali Qureshi,,22,M,Delhi,Delhi,Auto Driver,2,Human Trafficking; Kidnapping,2022,2026-01-11,Active,Low
+P0153,Sameena Gowda,,30,M,Bengaluru,Karnataka,Construction Contractor,1,Human Trafficking,2016,2025-02-08,Deceased,High
+P0154,Sameer Bhatt,,20,F,Guwahati,Assam,Construction Contractor,2,Human Trafficking,2014,2024-11-21,On Bail,Medium
+P0155,Zahid Sethi,Ustad Zahid; Bond Zahid; Munna Zahid,47,M,Kanpur,Uttar Pradesh,Construction Contractor,8,Extortion; Human Trafficking,2015,2024-03-13,Under Surveillance,High
+P0156,Vikram Bhatt,Seth Vikram,43,M,Varanasi,Uttar Pradesh,Money Exchange Operator,1,Extortion; Organised Robbery,2011,2025-10-23,Under Surveillance,Critical
+P0157,Farhan Sharma,Raja Farhan,44,M,Kanpur,Uttar Pradesh,Jewellery Shop Assistant,8,Extortion,2006,2021-08-07,Active,High
+P0158,Prakash Shetty,Raja Prakash,40,M,Lucknow,Uttar Pradesh,Import-Export Trader,9,Extortion; Organised Robbery,2015,2024-01-03,On Bail,Critical
+P0159,Farhan Rawat,,40,F,Lucknow,Uttar Pradesh,Chartered Accountant,3,Extortion,2019,2020-07-12,Under Surveillance,Critical
+P0160,Zahid Saxena,,24,M,Kanpur,Uttar Pradesh,Scrap Dealer,1,Extortion,2010,2026-12-07,Active,High
+P0161,Bhupinder Yadav,,25,M,Kanpur,Uttar Pradesh,Travel Agent,3,Extortion; Organised Robbery,2012,2025-06-14,On Bail,Medium
+P0162,Manoj Verma,,23,M,Varanasi,Uttar Pradesh,Auto Driver,2,Extortion; Organised Robbery,2014,2025-02-09,On Bail,Low
+P0163,Salim Qureshi,,33,M,Kanpur,Uttar Pradesh,Truck Driver,0,Extortion; Organised Robbery,2019,2024-05-01,Active,High
+P0164,Kabir Kapoor,,29,M,Lucknow,Uttar Pradesh,Scrap Dealer,1,Extortion; Organised Robbery,2010,2026-05-10,Active,High
+P0165,Anil Kapoor,,21,M,Nagpur,Maharashtra,Jewellery Shop Assistant,3,Extortion; Organised Robbery,2015,2026-11-14,Under Surveillance,Low
+P0166,Zoya Mehta,Doctor Zoya; Bada Zoya,53,M,Patna,Bihar,Chartered Accountant,6,Extortion; Hawala Operation,2017,2026-10-17,Active,Critical
+P0167,Salim Thakur,Chhota Salim,42,M,Indore,Madhya Pradesh,Money Exchange Operator,2,Hawala Operation; Money Laundering,2008,2024-12-12,Under Surveillance,Medium
+P0168,Ravi Bose,Chhota Ravi,41,M,Ahmedabad,Gujarat,Security Guard,7,Hawala Operation; Money Laundering,2015,2026-12-01,On Bail,High
+P0169,Rukmini Gowda,Tiger Rukmini; Kaka Rukmini,33,M,Ahmedabad,Gujarat,Transport Operator,5,Hawala Operation; Kidnapping,2015,2024-01-10,Absconding,Critical
+P0170,Anil Bose,Ustad Anil,35,F,Delhi,Delhi,Jewellery Shop Assistant,9,Hawala Operation; Money Laundering,2007,2025-06-13,Active,Critical
+P0171,Ravi Iyer,,33,M,Thiruvananthapuram,Kerala,Fishing Boat Owner,3,Hawala Operation; Money Laundering,2017,2026-04-10,Under Surveillance,Medium
+P0172,Farida Saxena,,33,M,Ahmedabad,Gujarat,Pharmacy Assistant,6,Hawala Operation,2005,2025-02-23,Absconding,Medium
+P0173,Pooja Iyer,,25,M,Surat,Gujarat,Mobile Recharge Shop,2,Hawala Operation; Money Laundering,2015,2024-03-06,In Judicial Custody,Low
+P0174,Tarun Qureshi,,36,F,Surat,Gujarat,Cyber Cafe Owner,2,Hawala Operation,2016,2026-10-10,Under Surveillance,High
+P0175,Sunita Pillai,Chacha Sunita,30,F,Surat,Gujarat,Pharmacy Assistant,4,Hawala Operation; Money Laundering,2019,2025-08-26,Absconding,Medium
+P0176,Rohit Verma,,23,F,Ahmedabad,Gujarat,Cyber Cafe Owner,4,Hawala Operation,2005,2024-09-20,Active,High
+P0177,Zoya Khan,,20,M,Ludhiana,Punjab,Chartered Accountant,3,Hawala Operation,2016,2019-01-21,Active,Medium
+P0178,Sameena Mehta,,32,M,Indore,Madhya Pradesh,Transport Operator,4,Hawala Operation; Money Laundering,2013,2024-08-18,Deceased,Low
+P0179,Aarav Chauhan,,26,M,Ahmedabad,Gujarat,Cattle Trader,0,Hawala Operation,2016,2021-12-02,Active,High
+P0180,Bhavna Iyer,,23,M,Ahmedabad,Gujarat,Pharmacy Assistant,2,Hawala Operation,2014,2024-02-21,In Judicial Custody,Medium
+P0181,Bhupinder Dutta,Bhai Bhupinder,24,M,Ahmedabad,Gujarat,Scrap Dealer,2,Hawala Operation; Money Laundering,2018,2021-11-20,Active,Low
+P0182,Pankaj Thakur,,32,M,Indore,Madhya Pradesh,Transport Operator,2,Hawala Operation,2005,2025-05-05,Active,Medium
+P0183,Shalini Reddy,,32,M,Surat,Gujarat,Import-Export Trader,4,Hawala Operation; Money Laundering,2012,2025-04-20,Active,High
+P0184,Sunita Saxena,,31,M,Surat,Gujarat,Import-Export Trader,3,Hawala Operation,2013,2018-02-02,Deceased,High
+P0185,Anjali Reddy,,21,M,Gurugram,Haryana,Mobile Recharge Shop,1,Hawala Operation; Money Laundering,2008,2026-05-06,In Judicial Custody,Medium
+P0186,Kavita Qureshi,,34,M,Vijayawada,Andhra Pradesh,Truck Driver,1,Hawala Operation,2021,2024-07-20,Under Surveillance,Low
+P0187,Ashok Joshi,,33,M,Ahmedabad,Gujarat,Transport Operator,0,Arms Smuggling; Hawala Operation,2006,2024-11-03,Absconding,High
+P0188,Firoz Thakur,,28,M,Guwahati,Assam,Unemployed,0,Illegal Betting,2020,2026-09-06,In Judicial Custody,Low
+P0189,Rajesh Kapoor,,32,M,Varanasi,Uttar Pradesh,Import-Export Trader,0,Illegal Betting; Organised Robbery,2011,2025-01-02,In Judicial Custody,Low
+P0190,Rajesh Naik,,40,M,Hyderabad,Telangana,Pharmacy Assistant,0,Illegal Betting,2020,2026-02-03,Under Surveillance,Medium
+P0191,Tarun Reddy,,32,M,Ludhiana,Punjab,Cattle Trader,0,Illegal Betting,2012,2025-04-10,On Bail,Low
+P0192,Mahesh Bose,Ustad Mahesh,27,M,Bengaluru,Karnataka,Pharmacy Assistant,0,Illegal Betting; Organised Robbery,2022,2026-12-07,Active,Low
+P0193,Harish Thakur,,35,M,Bengaluru,Karnataka,Money Exchange Operator,1,Illegal Betting,2007,2024-01-28,On Bail,Low
+P0194,Deepak Yadav,,26,F,Bhubaneswar,Odisha,Transport Operator,1,Illegal Betting; Organised Robbery,2019,2026-09-08,On Bail,Low
+P0195,Pankaj Choudhury,,29,M,Ranchi,Jharkhand,Import-Export Trader,2,Illegal Betting; Organised Robbery,2018,2024-05-05,In Judicial Custody,Medium
+P0196,Farhan Kulkarni,,35,M,Kolkata,West Bengal,Money Exchange Operator,2,Abduction of Women; Illegal Betting,2023,2026-12-24,In Judicial Custody,Medium
+P0197,Firoz Gowda,,33,M,Mumbai,Maharashtra,Import-Export Trader,2,Illegal Betting,2016,2021-07-09,Under Surveillance,Low
+P0198,Nitin Gowda,,35,M,Pune,Maharashtra,Fishing Boat Owner,2,Illegal Betting; Organised Robbery,2022,2024-03-14,On Bail,Medium
+P0199,Firoz Rawat,,30,M,Mumbai,Maharashtra,Cattle Trader,0,Illegal Betting; Organised Robbery,2013,2024-09-07,In Judicial Custody,Low
+P0200,Meera Reddy,,35,F,Nagpur,Maharashtra,Truck Driver,2,Illegal Betting; Organised Robbery,2017,2026-05-16,In Judicial Custody,Medium
+P0201,Kabir Patel,Sultan Kabir,27,M,Jodhpur,Rajasthan,Cattle Trader,2,Illegal Betting; Kidnapping; Organised Robbery,2005,2026-05-06,Under Surveillance,Medium
+P0202,Deepak Barman,,40,M,Chennai,Tamil Nadu,Money Exchange Operator,0,Illegal Betting; Organised Robbery,2014,2024-12-27,Under Surveillance,Low
+P0203,Ravi Qureshi,Raja Ravi,38,M,Delhi,Delhi,Transport Operator,0,Illegal Betting,2019,2025-04-25,Under Surveillance,Low
+P0204,Prakash Patel,,39,M,Varanasi,Uttar Pradesh,Fishing Boat Owner,1,Illegal Betting,2021,2026-12-10,On Bail,Medium
+P0205,Mukesh Dutta,,29,M,Pune,Maharashtra,Construction Contractor,0,Commercial Sexual Exploitation; Illegal Betting; Organised Robbery,2014,2025-08-20,Under Surveillance,Low
+P0206,Zahid Panicker,,36,M,Hyderabad,Telangana,Hotel Owner,2,Illegal Betting,2010,2026-10-25,Absconding,Low
+P0207,Pooja Khan,,37,F,Srinagar,Jammu & Kashmir,Mobile Recharge Shop,0,Illegal Betting,2020,2024-05-12,Active,Low
+P0208,Firoz Kulkarni,,33,M,Kolkata,West Bengal,Travel Agent,0,Illegal Betting; Organised Robbery,2012,2021-09-17,In Judicial Custody,Low
+P0209,Naveen Rathore,,30,M,Varanasi,Uttar Pradesh,Real Estate Agent,0,Illegal Betting; Organised Robbery,2014,2024-05-19,On Bail,Low
+P0210,Rajesh Bose,,39,F,Surat,Gujarat,Hotel Owner,0,Illegal Betting,2014,2025-05-11,Deceased,Medium
+P0211,Devendra Panicker,Kaka Devendra,36,F,Thiruvananthapuram,Kerala,Travel Agent,1,Illegal Betting,2017,2025-09-23,Under Surveillance,Low
+P0212,Rakesh Joshi,,33,M,Ludhiana,Punjab,Chartered Accountant,2,Illegal Betting; Organised Robbery,2023,2024-11-27,Under Surveillance,Medium
+P0213,Salim Dutta,,28,F,Kochi,Kerala,Truck Driver,2,Illegal Betting; Organised Robbery,2013,2024-11-22,Under Surveillance,Medium
+P0214,Aarav Qureshi,,40,F,Jodhpur,Rajasthan,Transport Operator,0,Illegal Betting; Organised Robbery,2011,2024-07-08,In Judicial Custody,Low
+P0215,Pankaj Chauhan,,29,F,Chennai,Tamil Nadu,Real Estate Agent,1,Illegal Betting,2019,2024-12-01,Absconding,Low
+P0216,Imran Dutta,,34,M,Coimbatore,Tamil Nadu,Travel Agent,2,Illegal Betting,2021,2025-08-22,Active,Low
+P0217,Krishna Solanki,,26,M,Nagpur,Maharashtra,Unemployed,2,Illegal Betting,2010,2024-03-25,Absconding,Medium
+P0218,Deepak Dutta,,36,M,Patna,Bihar,Fishing Boat Owner,1,Human Trafficking; Illegal Betting; Organised Robbery,2006,2025-04-07,In Judicial Custody,Low
+P0219,Rukmini Ansari,,34,M,Indore,Madhya Pradesh,Unemployed,2,Illegal Betting,2006,2024-07-15,Under Surveillance,Low
+P0220,Tarun Rawat,,26,F,Guwahati,Assam,Scrap Dealer,0,Illegal Betting; Vehicle Theft Ring,2009,2025-09-23,Active,Medium
+P0221,Deepak Solanki,Seth Deepak,51,M,Jaipur,Punjab,Transport Operator,1,Narcotics Trafficking; Money Laundering,2015,2026-08-27,Under Surveillance,Medium
+P0222,Sunita Gowda,Munna Sunita,37,M,Kolkata,Kerala,Transport Operator,3,Narcotics Trafficking; Money Laundering,2018,2026-04-12,Under Surveillance,Medium
+P0223,Tarun Nair,Munna Tarun,37,M,Coimbatore,Punjab,Transport Operator,1,Narcotics Trafficking; Money Laundering,2013,2026-04-28,Under Surveillance,Medium
+P0224,Devendra Panicker,Seth Devendra; Doctor Panicker,49,F,Siliguri,West Bengal,Import-Export Trader,4,Human Trafficking; Arms Smuggling,2012,2026-08-24,Under Surveillance,Critical
+P0225,Anjali Iyer,,24,M,Siliguri,West Bengal,Auto Driver,2,Human Trafficking,2017,2026-03-10,Active,Medium
+P0226,Shalini Naik,,32,F,Siliguri,West Bengal,Jewellery Shop Assistant,2,Human Trafficking,2017,2026-03-22,Active,Medium
+P0227,Lata Singh,,32,M,Siliguri,West Bengal,Chartered Accountant,1,Human Trafficking,2012,2026-02-25,Active,Medium
+P0228,Firoz Mishra,,29,F,Siliguri,West Bengal,Unemployed,3,Human Trafficking,2018,2026-07-19,Active,Medium
+P0229,Rakesh Sethi,,34,M,Siliguri,West Bengal,Chartered Accountant,3,Human Trafficking,2013,2026-04-12,Active,Medium
+P0230,Rukmini Singh,,28,M,Siliguri,West Bengal,Unemployed,3,Human Trafficking,2018,2026-05-12,Active,Medium
+P0231,Nisha Singh,,38,M,Siliguri,West Bengal,Construction Contractor,1,Human Trafficking,2011,2026-05-17,Active,Medium
+P0232,Zoya Deshmukh,,31,F,Surat,Gujarat,Chartered Accountant,0,,2025,2026-07-19,Active,Low
+P0233,Bhavna Deshmukh,Ustad Bhavna; Doctor Deshmukh; Bond,45,M,Srinagar,Jammu & Kashmir,Import-Export Trader,9,Arms Smuggling; Counterfeit Currency,2011,2026-06-02,Absconding,Critical
+P0234,Zahid Mishra,Kaka Zahid,53,M,Ludhiana,Punjab,Scrap Dealer,7,Arms Smuggling; Extortion,2009,2026-08-11,Active,High

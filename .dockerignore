@@ -1,0 +1,68 @@
+# NETRA — build context exclusions.
+# Keeps the image small and, more importantly, keeps local state and secrets out
+# of it. Every entry here is something the container must build *without*.
+
+# ── Version control & CI ─────────────────────────────────────────────────────
+.git
+.gitignore
+.github
+.gitattributes
+
+# ── Python bytecode & caches ─────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# ── Virtualenvs (the image builds its own at /opt/venv) ──────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Local runtime state ──────────────────────────────────────────────────────
+# The SQLite registry and generated exports belong to the volume, never the image:
+# baking them in would ship one machine's case data to every deployment.
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+data/exports/
+*.log
+
+# ── Editor / OS noise ────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Docs and dev-only files not needed at runtime ────────────────────────────
+# Excluded from the image but kept in the repository — the README and docs are
+# for humans reading the project, not for the running container.
+docs/
+tests/
+scripts/
+*.md
+!README.md
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# ── Secrets — must never enter an image layer ────────────────────────────────
+.env
+.env.*
+*.pem
+*.key
+.streamlit/secrets.toml

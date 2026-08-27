@@ -1,0 +1,22 @@
+# NETRA — AI-Powered Criminal Network Analysis System
+# SIH 2026 · PS 26189 · Ministry of Home Affairs · NCRB Women Safety Division
+#
+# Every dependency is free and open-source (MIT / BSD / Apache-2.0). There is no
+# paid API, no cloud service and no licence key anywhere in this stack — which is
+# what makes the free-tier deployment targets in the README possible.
+#
+# Versions are pinned exactly: this is the combination the 24-test suite is
+# verified against, so a deployment cannot drift into an untested dependency set.
+# Supported interpreters: Python 3.10 – 3.14 (Docker image pins 3.12).
+
+# ── Core application ─────────────────────────────────────────────────────────
+streamlit==1.62.0           # dashboard runtime + caching primitives
+pandas==3.0.5               # tabular ingestion and feature frames
+numpy==2.5.1                # GraphSAGE encoder maths (no PyTorch needed)
+networkx==3.6.1             # graph construction, centrality, Louvain
+plotly==7.0.0               # interactive network + analytics charts
+scikit-learn==1.9.0         # Isolation Forest, PCA, KMeans
+reportlab==5.0.1            # PDF intelligence dossier
+
+# ── Testing (not required to run the app) ────────────────────────────────────
+pytest==9.1.1

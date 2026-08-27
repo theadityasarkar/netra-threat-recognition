@@ -1,0 +1,596 @@
+source_id,target_id,relation_type,strength,interaction_count,first_seen,last_seen,evidence_source,location
+P0001,P0003,Gang Member,0.872,7,2022-01-14,2024-07-15,FIR Linkage,Vijayawada
+P0001,P0004,Gang Member,0.945,13,2018-10-09,2021-09-20,Informant Report,Pune
+P0001,P0005,Gang Member,0.863,18,2024-12-02,2026-06-07,FIR Linkage,Mangaluru
+P0001,P0006,Gang Member,1.0,17,2020-11-13,2025-07-13,FIR Linkage,Mangaluru
+P0001,P0007,Gang Member,0.889,16,2022-08-14,2023-04-15,Physical Surveillance,Guwahati
+P0001,P0008,Gang Member,0.933,4,2017-07-13,2024-10-07,Seizure Recovery,Amritsar
+P0001,P0002,Financial,0.907,7,2021-03-03,2026-10-21,Physical Surveillance,Guwahati
+P0002,P0003,Financial,0.804,17,2019-10-06,2021-09-01,Financial Trail,Srinagar
+P0002,P0005,Financial,0.682,10,2019-02-19,2023-07-09,Digital Forensics,Amritsar
+P0002,P0007,Financial,0.604,11,2016-01-05,2016-05-10,Financial Trail,Kolkata
+P0002,P0008,Financial,0.755,13,2016-02-10,2018-03-12,CDR Analysis,Varanasi
+P0003,P0013,Gang Member,0.68,15,2021-02-13,2025-04-05,Seizure Recovery,Jaipur
+P0004,P0044,Gang Member,0.662,11,2023-08-02,2023-03-17,FIR Linkage,Bhubaneswar
+P0005,P0026,Gang Member,0.644,16,2020-11-16,2022-09-25,Digital Forensics,Bhubaneswar
+P0006,P0010,Gang Member,0.645,12,2022-02-28,2023-11-07,CDR Analysis,Mangaluru
+P0007,P0010,Communication,0.471,13,2021-01-27,2022-08-25,Digital Forensics,Gurugram
+P0007,P0018,Handler,0.73,21,2016-03-10,2024-09-05,Financial Trail,Mumbai
+P0008,P0042,Gang Member,0.674,26,2022-09-17,2026-02-08,Digital Forensics,Kolkata
+P0003,P0021,Gang Member,0.622,11,2023-03-19,2024-04-04,FIR Linkage,Kochi
+P0004,P0020,Handler,0.758,17,2019-08-25,2025-03-18,Seizure Recovery,Jodhpur
+P0005,P0020,Communication,0.578,12,2022-12-16,2025-12-05,FIR Linkage,Guwahati
+P0005,P0015,Handler,0.673,13,2021-11-16,2025-01-14,Seizure Recovery,Ranchi
+P0006,P0041,Gang Member,0.802,19,2023-06-07,2026-04-21,CDR Analysis,Nagpur
+P0007,P0019,Handler,0.835,18,2021-07-08,2024-11-20,Seizure Recovery,Thiruvananthapuram
+P0008,P0019,Communication,0.429,18,2021-02-16,2022-03-09,Physical Surveillance,Gurugram
+P0008,P0034,Gang Member,0.857,16,2019-06-23,2021-05-02,Physical Surveillance,Jaipur
+P0003,P0014,Handler,0.672,16,2017-04-06,2026-07-18,Digital Forensics,Indore
+P0004,P0043,Gang Member,0.742,14,2022-09-26,2025-10-07,FIR Linkage,Coimbatore
+P0005,P0043,Communication,0.468,16,2023-06-18,2025-03-05,Seizure Recovery,Amritsar
+P0005,P0017,Handler,0.817,14,2020-02-25,2021-04-11,CDR Analysis,Kanpur
+P0006,P0035,Gang Member,0.883,14,2021-07-27,2022-01-23,Financial Trail,Hyderabad
+P0007,P0036,Gang Member,0.688,16,2016-10-08,2025-03-07,FIR Linkage,Delhi
+P0008,P0016,Handler,0.728,13,2018-06-13,2025-09-16,Seizure Recovery,Kochi
+P0003,P0037,Gang Member,0.577,25,2017-11-02,2026-04-03,Physical Surveillance,Indore
+P0004,P0029,Gang Member,0.772,18,2017-01-19,2018-07-10,Informant Report,Ranchi
+P0005,P0029,Communication,0.46,12,2016-08-19,2026-01-13,Financial Trail,Guwahati
+P0005,P0009,Gang Member,0.686,12,2017-08-05,2018-12-10,Seizure Recovery,Ahmedabad
+P0006,P0033,Gang Member,0.655,15,2016-08-20,2018-09-27,CDR Analysis,Lucknow
+P0007,P0030,Gang Member,0.698,19,2020-01-22,2020-01-11,CDR Analysis,Ahmedabad
+P0008,P0030,Communication,0.391,19,2020-01-21,2026-01-20,FIR Linkage,Chennai
+P0008,P0040,Gang Member,0.719,16,2018-10-04,2019-05-06,Financial Trail,Ahmedabad
+P0003,P0040,Communication,0.417,25,2023-01-21,2023-01-17,CDR Analysis,Bhubaneswar
+P0003,P0032,Gang Member,0.665,17,2018-02-25,2018-09-11,Informant Report,Mumbai
+P0004,P0025,Gang Member,0.729,15,2021-01-02,2026-12-03,Digital Forensics,Hyderabad
+P0005,P0039,Gang Member,0.772,11,2017-03-16,2018-06-20,FIR Linkage,Ranchi
+P0006,P0011,Gang Member,0.758,21,2018-07-26,2022-11-12,CDR Analysis,Mumbai
+P0007,P0011,Communication,0.371,13,2017-12-23,2018-12-17,Informant Report,Gurugram
+P0007,P0027,Gang Member,0.665,13,2023-07-23,2025-01-22,Physical Surveillance,Bhubaneswar
+P0008,P0027,Communication,0.386,11,2023-05-14,2026-03-13,FIR Linkage,Delhi
+P0008,P0023,Gang Member,0.618,11,2017-06-27,2022-03-08,FIR Linkage,Surat
+P0003,P0012,Gang Member,0.659,21,2021-02-04,2026-11-16,Physical Surveillance,Surat
+P0004,P0028,Gang Member,0.774,12,2021-09-02,2026-04-23,CDR Analysis,Delhi
+P0005,P0038,Gang Member,0.768,8,2018-11-10,2023-01-07,Financial Trail,Ludhiana
+P0006,P0024,Gang Member,0.712,24,2019-03-18,2026-09-20,Financial Trail,Hyderabad
+P0007,P0022,Gang Member,0.699,13,2017-08-19,2021-06-01,CDR Analysis,Jodhpur
+P0008,P0022,Communication,0.453,16,2017-01-03,2018-02-13,Financial Trail,Surat
+P0008,P0031,Gang Member,0.805,15,2021-01-28,2025-05-22,Digital Forensics,Varanasi
+P0001,P0020,Communication,0.341,16,2023-12-12,2025-02-24,Digital Forensics,Patna
+P0001,P0024,Communication,0.339,15,2020-10-09,2022-11-15,FIR Linkage,Surat
+P0001,P0034,Communication,0.467,15,2024-07-16,2024-12-14,Financial Trail,Bhubaneswar
+P0002,P0009,Co-Accused,0.466,21,2020-07-06,2023-07-20,Digital Forensics,Kolkata
+P0002,P0016,Associate,0.454,17,2023-07-24,2026-06-15,Financial Trail,Kochi
+P0002,P0026,Communication,0.286,18,2021-01-24,2022-04-25,Financial Trail,Surat
+P0002,P0043,Associate,0.335,6,2018-02-25,2020-02-10,CDR Analysis,Bhubaneswar
+P0003,P0008,Communication,0.38,22,2017-01-01,2026-01-23,FIR Linkage,Kanpur
+P0003,P0010,Communication,0.365,16,2022-06-09,2025-10-28,Seizure Recovery,Kanpur
+P0003,P0031,Co-Accused,0.409,18,2020-05-24,2024-11-12,Digital Forensics,Siliguri
+P0004,P0019,Communication,0.449,17,2016-08-07,2021-09-17,Seizure Recovery,Gurugram
+P0005,P0036,Family,0.391,23,2021-09-09,2026-04-04,CDR Analysis,Patna
+P0006,P0036,Co-Accused,0.45,18,2021-03-11,2022-04-07,Financial Trail,Chennai
+P0007,P0029,Associate,0.36,15,2016-10-03,2017-08-10,Physical Surveillance,Thiruvananthapuram
+P0007,P0032,Associate,0.455,18,2021-04-09,2021-08-02,Financial Trail,Mumbai
+P0010,P0021,Communication,0.39,17,2016-08-12,2022-01-08,CDR Analysis,Mumbai
+P0010,P0025,Communication,0.403,22,2020-12-16,2024-11-04,Digital Forensics,Kolkata
+P0010,P0036,Associate,0.367,13,2019-08-18,2023-08-14,Physical Surveillance,Guwahati
+P0010,P0042,Co-Accused,0.453,17,2019-01-18,2021-01-27,Digital Forensics,Patna
+P0011,P0025,Associate,0.334,13,2016-01-08,2019-02-18,Informant Report,Varanasi
+P0011,P0032,Family,0.367,17,2017-04-28,2017-03-02,Informant Report,Srinagar
+P0013,P0016,Associate,0.237,17,2016-10-03,2018-05-03,Digital Forensics,Ludhiana
+P0014,P0021,Communication,0.371,9,2022-01-17,2024-03-07,CDR Analysis,Indore
+P0014,P0032,Communication,0.288,11,2023-04-10,2024-12-24,Physical Surveillance,Jaipur
+P0014,P0042,Associate,0.401,14,2018-04-21,2022-11-07,Digital Forensics,Ludhiana
+P0016,P0038,Communication,0.304,10,2019-03-11,2024-05-08,Physical Surveillance,Hyderabad
+P0018,P0038,Associate,0.333,19,2016-01-15,2025-10-01,CDR Analysis,Indore
+P0018,P0041,Associate,0.426,12,2023-04-13,2024-06-14,Seizure Recovery,Siliguri
+P0018,P0042,Co-Accused,0.354,11,2016-08-08,2016-07-25,Physical Surveillance,Indore
+P0019,P0020,Communication,0.499,18,2019-05-18,2023-07-28,Digital Forensics,Ranchi
+P0020,P0039,Communication,0.385,20,2020-11-05,2021-12-16,Physical Surveillance,Jaipur
+P0020,P0041,Associate,0.329,11,2019-10-25,2025-06-16,Informant Report,Ranchi
+P0021,P0026,Communication,0.341,10,2021-06-15,2025-01-24,Informant Report,Nagpur
+P0021,P0027,Associate,0.437,12,2020-12-20,2026-09-15,Physical Surveillance,Lucknow
+P0021,P0036,Communication,0.345,17,2024-12-10,2026-02-18,Seizure Recovery,Delhi
+P0022,P0035,Communication,0.479,22,2019-01-15,2023-11-23,FIR Linkage,Jaipur
+P0022,P0037,Associate,0.433,20,2019-08-24,2026-11-16,CDR Analysis,Guwahati
+P0023,P0030,Communication,0.445,10,2023-09-16,2025-02-07,Financial Trail,Hyderabad
+P0023,P0039,Co-Accused,0.345,13,2018-08-21,2024-09-07,Seizure Recovery,Kolkata
+P0024,P0037,Associate,0.333,15,2022-07-26,2023-07-09,Financial Trail,Gurugram
+P0025,P0033,Communication,0.349,21,2022-05-25,2024-10-05,Financial Trail,Indore
+P0025,P0034,Associate,0.403,18,2018-12-01,2019-04-01,Informant Report,Patna
+P0025,P0044,Communication,0.44,13,2023-01-16,2026-10-24,Physical Surveillance,Jaipur
+P0026,P0029,Communication,0.383,9,2017-09-11,2025-06-14,FIR Linkage,Kolkata
+P0026,P0030,Co-Accused,0.428,17,2021-03-10,2026-09-05,Informant Report,Siliguri
+P0026,P0031,Co-Accused,0.375,11,2022-08-05,2024-05-19,Digital Forensics,Srinagar
+P0026,P0036,Associate,0.32,12,2017-06-28,2023-06-13,Digital Forensics,Ranchi
+P0027,P0038,Associate,0.311,10,2022-10-12,2025-11-06,Physical Surveillance,Vijayawada
+P0029,P0039,Communication,0.302,13,2019-09-28,2026-03-08,CDR Analysis,Hyderabad
+P0029,P0043,Associate,0.346,18,2019-05-01,2021-05-20,Informant Report,Srinagar
+P0030,P0036,Associate,0.438,20,2024-09-11,2025-06-24,Seizure Recovery,Ludhiana
+P0035,P0041,Communication,0.42,12,2016-02-01,2023-01-14,Financial Trail,Pune
+P0039,P0044,Communication,0.408,9,2016-09-03,2023-10-25,Seizure Recovery,Thiruvananthapuram
+P0040,P0041,Co-Accused,0.422,14,2019-10-21,2024-01-14,Seizure Recovery,Jaipur
+P0014,P0039,Courier Link,0.659,9,2019-02-13,2021-03-03,Physical Surveillance,Varanasi
+P0014,P0031,Courier Link,0.661,21,2023-03-02,2024-03-24,Physical Surveillance,Lucknow
+P0015,P0044,Courier Link,0.592,12,2019-10-02,2022-10-10,Informant Report,Mangaluru
+P0015,P0033,Courier Link,0.739,14,2018-05-26,2020-02-10,Informant Report,Jaipur
+P0015,P0022,Courier Link,0.791,17,2023-05-04,2026-04-18,Informant Report,Amritsar
+P0016,P0026,Courier Link,0.551,14,2018-01-12,2022-11-26,CDR Analysis,Kochi
+P0016,P0021,Courier Link,0.516,15,2017-07-06,2019-07-14,Physical Surveillance,Guwahati
+P0016,P0031,Courier Link,0.662,15,2024-01-14,2025-12-24,Financial Trail,Gurugram
+P0017,P0030,Courier Link,0.669,17,2016-04-12,2022-08-01,CDR Analysis,Kanpur
+P0017,P0027,Courier Link,0.557,14,2024-10-08,2024-10-19,Financial Trail,Ahmedabad
+P0017,P0036,Courier Link,0.662,20,2021-09-21,2026-05-04,CDR Analysis,Bhubaneswar
+P0018,P0040,Courier Link,0.627,11,2018-12-13,2026-06-20,Seizure Recovery,Kolkata
+P0018,P0032,Courier Link,0.557,14,2022-06-13,2024-06-12,Informant Report,Ludhiana
+P0018,P0030,Courier Link,0.592,22,2020-09-01,2021-01-07,FIR Linkage,Hyderabad
+P0019,P0032,Courier Link,0.619,17,2019-12-12,2024-04-12,Seizure Recovery,Ludhiana
+P0019,P0043,Courier Link,0.63,21,2024-02-09,2025-01-20,Informant Report,Vijayawada
+P0019,P0033,Courier Link,0.575,8,2017-10-04,2020-10-05,CDR Analysis,Coimbatore
+P0020,P0036,Courier Link,0.526,10,2019-05-12,2021-02-21,Seizure Recovery,Pune
+P0020,P0043,Courier Link,0.573,10,2017-09-04,2020-12-15,Financial Trail,Bhubaneswar
+P0020,P0030,Courier Link,0.592,15,2021-01-08,2024-04-27,Seizure Recovery,Chennai
+P0042,P0209,Shelter Provider,0.178,14,2021-05-13,2022-07-07,Financial Trail,Bhubaneswar
+P0035,P0196,Associate,0.231,17,2020-07-25,2022-05-17,FIR Linkage,Kochi
+P0039,P0207,Family,0.231,19,2019-02-20,2021-11-12,Informant Report,Srinagar
+P0026,P0198,Associate,0.283,17,2018-06-02,2022-03-28,Financial Trail,Guwahati
+P0045,P0047,Gang Member,0.986,18,2022-08-09,2025-11-06,Digital Forensics,Coimbatore
+P0045,P0048,Gang Member,0.901,6,2022-07-15,2026-02-07,Informant Report,Kanpur
+P0045,P0049,Gang Member,0.951,7,2023-01-11,2023-11-27,Digital Forensics,Ahmedabad
+P0045,P0050,Gang Member,0.932,5,2023-09-17,2024-12-03,Physical Surveillance,Srinagar
+P0045,P0051,Gang Member,0.938,10,2021-07-25,2021-08-14,FIR Linkage,Surat
+P0045,P0052,Gang Member,0.858,17,2017-06-11,2023-04-15,Seizure Recovery,Chennai
+P0045,P0053,Gang Member,0.899,14,2021-06-18,2025-08-05,Seizure Recovery,Surat
+P0045,P0054,Gang Member,0.941,18,2022-08-12,2026-11-11,CDR Analysis,Jaipur
+P0045,P0046,Financial,0.839,10,2021-07-23,2026-01-17,Financial Trail,Bengaluru
+P0046,P0049,Financial,0.564,12,2018-07-07,2024-01-11,Informant Report,Hyderabad
+P0046,P0050,Financial,0.63,12,2022-05-01,2022-01-11,CDR Analysis,Ahmedabad
+P0046,P0051,Financial,0.702,8,2021-09-25,2024-12-17,Physical Surveillance,Lucknow
+P0046,P0052,Financial,0.655,12,2020-10-05,2021-03-09,FIR Linkage,Ahmedabad
+P0046,P0054,Financial,0.851,17,2017-08-17,2026-04-07,Digital Forensics,Ludhiana
+P0047,P0093,Gang Member,0.666,16,2016-01-11,2017-11-22,FIR Linkage,Kolkata
+P0048,P0065,Handler,0.696,13,2023-03-12,2023-03-05,Digital Forensics,Siliguri
+P0049,P0095,Gang Member,0.825,12,2018-02-14,2026-07-22,CDR Analysis,Kolkata
+P0050,P0097,Gang Member,0.738,16,2023-07-16,2023-03-21,FIR Linkage,Kochi
+P0051,P0097,Communication,0.439,16,2018-12-11,2019-04-07,Financial Trail,Indore
+P0051,P0088,Gang Member,0.662,12,2018-05-14,2021-02-03,Physical Surveillance,Kochi
+P0052,P0088,Communication,0.494,14,2022-07-28,2024-05-21,Digital Forensics,Mangaluru
+P0052,P0086,Gang Member,0.708,13,2018-05-04,2025-12-01,Financial Trail,Mumbai
+P0053,P0089,Gang Member,0.799,16,2022-10-19,2025-01-25,Informant Report,Vijayawada
+P0054,P0103,Gang Member,0.747,15,2023-02-10,2026-03-12,Informant Report,Vijayawada
+P0047,P0101,Gang Member,0.75,16,2022-02-27,2022-01-12,Financial Trail,Bhubaneswar
+P0048,P0092,Gang Member,0.671,16,2021-06-19,2021-06-04,FIR Linkage,Bengaluru
+P0049,P0078,Gang Member,0.775,12,2024-04-11,2024-11-28,Financial Trail,Patna
+P0050,P0078,Communication,0.414,16,2016-03-16,2025-04-21,Digital Forensics,Jaipur
+P0050,P0073,Gang Member,0.69,15,2018-11-22,2020-04-02,Informant Report,Gurugram
+P0051,P0057,Gang Member,0.808,16,2016-03-03,2023-04-28,Digital Forensics,Varanasi
+P0052,P0057,Communication,0.476,18,2024-05-09,2026-09-07,CDR Analysis,Coimbatore
+P0052,P0102,Gang Member,0.72,19,2018-09-21,2023-03-25,CDR Analysis,Jaipur
+P0053,P0102,Communication,0.431,17,2017-07-17,2017-01-07,Informant Report,Surat
+P0053,P0064,Handler,0.705,15,2016-11-09,2017-07-21,Informant Report,Amritsar
+P0054,P0064,Communication,0.447,13,2022-09-06,2022-07-28,FIR Linkage,Bhubaneswar
+P0054,P0080,Gang Member,0.651,11,2017-03-28,2025-01-10,Digital Forensics,Gurugram
+P0047,P0080,Communication,0.349,14,2016-06-07,2025-05-18,CDR Analysis,Surat
+P0047,P0068,Handler,0.882,16,2018-02-13,2018-02-13,Financial Trail,Bengaluru
+P0048,P0068,Communication,0.393,12,2019-01-01,2019-11-06,Physical Surveillance,Ahmedabad
+P0048,P0100,Gang Member,0.721,11,2019-09-20,2025-06-18,Financial Trail,Jodhpur
+P0049,P0070,Handler,0.732,14,2017-04-02,2018-07-12,FIR Linkage,Kolkata
+P0050,P0060,Gang Member,0.738,12,2016-06-13,2017-10-17,Digital Forensics,Srinagar
+P0051,P0096,Gang Member,0.749,17,2021-06-12,2025-02-25,Digital Forensics,Chennai
+P0052,P0096,Communication,0.332,21,2019-04-14,2024-12-19,Digital Forensics,Siliguri
+P0052,P0087,Gang Member,0.714,18,2023-11-27,2026-09-21,FIR Linkage,Siliguri
+P0053,P0075,Gang Member,0.572,14,2022-04-22,2023-02-05,Seizure Recovery,Guwahati
+P0054,P0063,Handler,0.643,14,2020-08-12,2023-09-27,Seizure Recovery,Srinagar
+P0047,P0066,Handler,0.707,9,2021-03-03,2024-08-22,Seizure Recovery,Patna
+P0048,P0066,Communication,0.66,11,2019-08-11,2021-06-28,FIR Linkage,Srinagar
+P0048,P0083,Gang Member,0.647,14,2019-08-03,2021-12-02,Physical Surveillance,Vijayawada
+P0049,P0083,Communication,0.368,6,2018-08-15,2025-02-26,Informant Report,Jaipur
+P0049,P0074,Gang Member,0.604,18,2024-06-08,2026-03-13,FIR Linkage,Lucknow
+P0050,P0077,Gang Member,0.682,19,2019-09-25,2021-05-20,CDR Analysis,Guwahati
+P0051,P0061,Gang Member,0.785,17,2023-04-14,2026-11-12,Seizure Recovery,Patna
+P0052,P0058,Gang Member,0.781,16,2021-11-19,2025-05-09,Seizure Recovery,Lucknow
+P0053,P0058,Communication,0.398,14,2021-02-02,2026-10-01,Physical Surveillance,Siliguri
+P0053,P0081,Gang Member,0.704,16,2017-12-15,2021-09-09,FIR Linkage,Vijayawada
+P0054,P0059,Gang Member,0.775,17,2022-10-27,2024-03-08,FIR Linkage,Pune
+P0047,P0059,Communication,0.485,22,2023-03-13,2023-05-24,Digital Forensics,Mumbai
+P0047,P0104,Gang Member,0.667,13,2020-06-11,2020-09-03,CDR Analysis,Patna
+P0048,P0094,Gang Member,0.687,16,2022-05-15,2025-05-05,FIR Linkage,Vijayawada
+P0049,P0082,Gang Member,0.747,13,2018-04-20,2026-09-09,Financial Trail,Surat
+P0050,P0098,Gang Member,0.89,14,2016-02-22,2021-10-01,CDR Analysis,Kochi
+P0051,P0055,Gang Member,0.663,22,2024-12-01,2026-05-01,Financial Trail,Mangaluru
+P0052,P0062,Handler,0.77,19,2021-09-02,2023-12-22,FIR Linkage,Nagpur
+P0053,P0079,Gang Member,0.813,24,2017-10-07,2018-10-12,Physical Surveillance,Vijayawada
+P0054,P0099,Gang Member,0.834,18,2020-01-27,2020-12-18,Financial Trail,Ludhiana
+P0047,P0091,Gang Member,0.838,17,2017-03-02,2021-02-22,Seizure Recovery,Jodhpur
+P0048,P0084,Gang Member,0.734,15,2016-10-11,2017-08-19,CDR Analysis,Guwahati
+P0049,P0071,Handler,0.718,11,2024-09-15,2026-07-19,Digital Forensics,Vijayawada
+P0050,P0071,Communication,0.314,20,2016-05-18,2020-05-18,Seizure Recovery,Patna
+P0050,P0085,Gang Member,0.86,13,2018-08-10,2026-04-26,Digital Forensics,Ahmedabad
+P0051,P0085,Communication,0.406,15,2018-04-14,2022-08-10,Digital Forensics,Patna
+P0051,P0090,Gang Member,0.702,18,2019-03-13,2019-02-19,Financial Trail,Nagpur
+P0052,P0067,Handler,0.632,11,2020-02-13,2022-02-18,Financial Trail,Ranchi
+P0053,P0056,Gang Member,0.662,13,2019-06-04,2020-12-25,Seizure Recovery,Hyderabad
+P0054,P0076,Gang Member,0.771,19,2019-07-13,2025-04-07,Informant Report,Varanasi
+P0047,P0076,Communication,0.485,16,2019-12-02,2019-07-17,Physical Surveillance,Pune
+P0047,P0069,Handler,0.763,14,2024-08-28,2026-01-10,Physical Surveillance,Guwahati
+P0048,P0072,Gang Member,0.77,13,2017-11-09,2019-02-08,Digital Forensics,Jaipur
+P0049,P0072,Communication,0.374,12,2019-03-25,2021-02-21,FIR Linkage,Siliguri
+P0045,P0068,Associate,0.332,14,2023-08-15,2023-06-28,Financial Trail,Lucknow
+P0045,P0077,Associate,0.363,16,2016-04-05,2024-06-03,Seizure Recovery,Srinagar
+P0045,P0083,Associate,0.425,7,2021-09-07,2023-06-21,FIR Linkage,Srinagar
+P0045,P0089,Associate,0.43,18,2019-05-08,2020-08-24,FIR Linkage,Bengaluru
+P0045,P0104,Associate,0.35,17,2021-02-17,2021-11-10,Informant Report,Bhubaneswar
+P0046,P0062,Communication,0.388,20,2023-03-03,2025-02-07,Financial Trail,Kolkata
+P0046,P0068,Co-Accused,0.315,18,2023-02-03,2023-05-23,Digital Forensics,Kanpur
+P0047,P0054,Communication,0.402,9,2023-10-07,2024-02-21,Financial Trail,Lucknow
+P0047,P0055,Communication,0.093,14,2018-11-24,2020-08-19,Physical Surveillance,Mangaluru
+P0047,P0061,Associate,0.27,20,2022-07-03,2025-09-23,Digital Forensics,Srinagar
+P0048,P0070,Communication,0.473,16,2023-01-13,2024-07-27,FIR Linkage,Varanasi
+P0048,P0071,Associate,0.362,13,2021-09-14,2025-09-04,CDR Analysis,Amritsar
+P0048,P0087,Communication,0.423,16,2017-02-15,2021-11-15,CDR Analysis,Bhubaneswar
+P0048,P0093,Communication,0.516,20,2022-10-04,2025-08-17,Physical Surveillance,Bengaluru
+P0049,P0050,Associate,0.336,11,2017-04-21,2025-10-19,Digital Forensics,Jaipur
+P0049,P0065,Communication,0.329,13,2016-01-26,2017-05-07,Financial Trail,Patna
+P0049,P0066,Communication,0.431,13,2020-08-03,2021-02-28,Financial Trail,Gurugram
+P0049,P0088,Communication,0.475,16,2018-12-22,2022-07-27,Seizure Recovery,Pune
+P0049,P0102,Associate,0.478,10,2023-02-16,2025-12-06,FIR Linkage,Lucknow
+P0050,P0051,Family,0.385,12,2019-11-24,2021-06-12,Financial Trail,Bengaluru
+P0050,P0064,Communication,0.437,16,2016-02-08,2026-02-26,Physical Surveillance,Mangaluru
+P0050,P0080,Associate,0.296,19,2018-01-04,2023-03-24,Physical Surveillance,Pune
+P0051,P0064,Associate,0.44,17,2022-02-09,2022-04-08,Physical Surveillance,Chennai
+P0051,P0086,Communication,0.331,16,2018-12-06,2020-07-08,Digital Forensics,Chennai
+P0051,P0101,Associate,0.438,11,2021-10-01,2023-09-04,FIR Linkage,Hyderabad
+P0052,P0055,Communication,0.372,15,2021-10-09,2023-07-14,FIR Linkage,Jodhpur
+P0052,P0059,Co-Accused,0.435,12,2017-01-19,2022-07-10,Informant Report,Indore
+P0052,P0083,Co-Accused,0.471,16,2017-03-05,2018-10-06,FIR Linkage,Kanpur
+P0052,P0093,Associate,0.502,5,2019-06-23,2024-06-02,FIR Linkage,Guwahati
+P0052,P0094,Communication,0.455,17,2021-09-12,2023-01-11,Seizure Recovery,Bhubaneswar
+P0054,P0083,Family,0.415,11,2018-09-19,2020-11-08,Physical Surveillance,Mangaluru
+P0055,P0057,Associate,0.509,25,2020-03-13,2021-08-04,FIR Linkage,Lucknow
+P0055,P0072,Communication,0.479,10,2016-05-17,2018-06-09,CDR Analysis,Siliguri
+P0056,P0066,Co-Accused,0.523,13,2024-06-03,2024-06-28,Digital Forensics,Bengaluru
+P0056,P0071,Family,0.37,19,2022-04-10,2023-11-03,CDR Analysis,Ranchi
+P0056,P0080,Family,0.331,16,2019-01-01,2021-02-22,FIR Linkage,Amritsar
+P0056,P0089,Communication,0.529,9,2022-05-12,2022-12-09,Informant Report,Bengaluru
+P0056,P0102,Associate,0.436,20,2016-09-03,2016-11-26,CDR Analysis,Mangaluru
+P0057,P0087,Family,0.414,12,2017-11-12,2025-06-09,Seizure Recovery,Srinagar
+P0057,P0093,Communication,0.414,18,2024-04-18,2026-11-04,FIR Linkage,Kolkata
+P0057,P0094,Associate,0.402,10,2016-04-06,2020-11-27,FIR Linkage,Mumbai
+P0057,P0097,Communication,0.419,17,2018-01-11,2023-03-11,Informant Report,Ranchi
+P0058,P0061,Co-Accused,0.339,16,2022-03-01,2024-01-09,CDR Analysis,Thiruvananthapuram
+P0058,P0091,Associate,0.39,16,2024-08-16,2025-03-09,Physical Surveillance,Mumbai
+P0059,P0086,Communication,0.278,19,2024-10-22,2024-11-06,Seizure Recovery,Kanpur
+P0059,P0088,Associate,0.488,16,2016-10-09,2018-01-22,CDR Analysis,Thiruvananthapuram
+P0059,P0094,Communication,0.374,14,2016-10-11,2016-10-09,Digital Forensics,Jodhpur
+P0059,P0096,Associate,0.363,13,2019-11-01,2023-10-11,Financial Trail,Varanasi
+P0061,P0064,Associate,0.385,20,2023-07-03,2024-09-22,Financial Trail,Siliguri
+P0061,P0100,Associate,0.345,16,2021-07-04,2025-05-04,FIR Linkage,Lucknow
+P0061,P0101,Communication,0.505,8,2020-09-14,2025-05-03,Seizure Recovery,Hyderabad
+P0062,P0072,Associate,0.464,15,2024-12-24,2025-04-03,Financial Trail,Ranchi
+P0063,P0101,Co-Accused,0.368,25,2023-03-11,2026-10-28,Physical Surveillance,Srinagar
+P0063,P0103,Communication,0.396,15,2021-01-05,2024-11-25,Seizure Recovery,Patna
+P0064,P0073,Communication,0.364,28,2019-07-12,2023-09-21,FIR Linkage,Mangaluru
+P0064,P0075,Communication,0.214,15,2024-07-06,2024-07-08,Informant Report,Nagpur
+P0064,P0078,Communication,0.557,11,2018-03-06,2020-02-23,Seizure Recovery,Jaipur
+P0064,P0101,Communication,0.397,23,2023-01-01,2023-09-03,Informant Report,Bengaluru
+P0065,P0090,Communication,0.331,8,2017-04-11,2025-01-27,Informant Report,Srinagar
+P0065,P0104,Family,0.453,14,2021-11-13,2024-04-28,Financial Trail,Lucknow
+P0066,P0104,Associate,0.476,17,2021-07-04,2022-01-11,CDR Analysis,Coimbatore
+P0067,P0092,Family,0.414,15,2024-08-26,2026-03-10,Informant Report,Siliguri
+P0068,P0072,Communication,0.523,13,2020-03-22,2025-03-19,Physical Surveillance,Bengaluru
+P0068,P0093,Communication,0.486,19,2021-11-06,2023-01-22,Financial Trail,Gurugram
+P0068,P0100,Communication,0.397,14,2016-09-15,2025-08-14,Seizure Recovery,Gurugram
+P0070,P0071,Communication,0.369,18,2022-05-05,2024-12-11,Financial Trail,Gurugram
+P0070,P0086,Communication,0.304,15,2018-07-09,2024-02-03,CDR Analysis,Guwahati
+P0071,P0090,Communication,0.371,11,2017-04-25,2026-11-27,Digital Forensics,Kanpur
+P0071,P0099,Family,0.334,11,2019-07-09,2024-09-21,CDR Analysis,Gurugram
+P0072,P0088,Communication,0.35,12,2021-02-11,2026-11-21,Seizure Recovery,Chennai
+P0072,P0090,Associate,0.443,12,2022-08-08,2025-06-03,Informant Report,Vijayawada
+P0072,P0098,Co-Accused,0.403,11,2024-12-27,2025-10-08,Informant Report,Surat
+P0073,P0084,Communication,0.273,18,2017-01-21,2018-07-16,Informant Report,Varanasi
+P0073,P0104,Communication,0.328,11,2016-05-04,2021-03-17,Seizure Recovery,Bhubaneswar
+P0074,P0080,Communication,0.393,19,2022-12-06,2025-04-13,Digital Forensics,Ranchi
+P0074,P0086,Communication,0.406,17,2019-01-18,2024-03-18,Informant Report,Coimbatore
+P0074,P0097,Associate,0.476,8,2024-11-01,2024-01-26,Digital Forensics,Kolkata
+P0074,P0098,Communication,0.401,11,2024-05-12,2026-07-27,Physical Surveillance,Mumbai
+P0076,P0083,Co-Accused,0.476,20,2017-07-11,2021-02-20,CDR Analysis,Bhubaneswar
+P0076,P0087,Co-Accused,0.36,17,2020-04-14,2020-01-10,Physical Surveillance,Srinagar
+P0076,P0092,Communication,0.455,18,2018-10-13,2019-07-22,Physical Surveillance,Ludhiana
+P0077,P0088,Co-Accused,0.466,13,2024-06-02,2026-01-03,Physical Surveillance,Patna
+P0078,P0085,Associate,0.378,14,2019-10-16,2020-11-08,CDR Analysis,Kolkata
+P0079,P0094,Communication,0.361,23,2019-07-19,2022-04-14,Informant Report,Jodhpur
+P0079,P0099,Communication,0.368,17,2016-02-13,2024-03-12,Digital Forensics,Ranchi
+P0081,P0083,Communication,0.342,12,2017-08-16,2025-04-01,Financial Trail,Surat
+P0083,P0084,Communication,0.626,15,2021-06-26,2026-03-24,Informant Report,Bhubaneswar
+P0083,P0085,Communication,0.269,15,2022-04-02,2026-08-02,Seizure Recovery,Pune
+P0083,P0088,Communication,0.457,13,2024-09-11,2026-03-08,Informant Report,Varanasi
+P0084,P0096,Co-Accused,0.38,14,2021-06-27,2022-07-03,Seizure Recovery,Nagpur
+P0084,P0099,Associate,0.44,8,2017-04-08,2024-08-02,Physical Surveillance,Gurugram
+P0086,P0095,Associate,0.419,14,2017-02-05,2019-11-13,Digital Forensics,Indore
+P0087,P0098,Co-Accused,0.332,18,2024-09-03,2024-05-07,CDR Analysis,Siliguri
+P0088,P0101,Co-Accused,0.347,9,2018-06-16,2024-03-01,Physical Surveillance,Siliguri
+P0091,P0093,Communication,0.297,11,2023-12-09,2025-01-19,Informant Report,Bengaluru
+P0091,P0103,Co-Accused,0.364,14,2017-01-23,2021-03-21,FIR Linkage,Kanpur
+P0092,P0094,Communication,0.323,16,2022-11-19,2026-04-26,Digital Forensics,Gurugram
+P0094,P0097,Co-Accused,0.442,12,2022-04-20,2023-05-22,Informant Report,Ranchi
+P0099,P0100,Communication,0.586,16,2021-12-06,2021-09-28,Seizure Recovery,Pune
+P0100,P0104,Family,0.344,13,2017-04-21,2025-05-19,Physical Surveillance,Chennai
+P0062,P0091,Courier Link,0.652,19,2017-12-22,2022-05-10,CDR Analysis,Kochi
+P0062,P0074,Courier Link,0.609,17,2017-01-27,2019-06-19,FIR Linkage,Amritsar
+P0062,P0104,Courier Link,0.591,16,2020-01-04,2021-12-26,Physical Surveillance,Patna
+P0063,P0089,Courier Link,0.397,11,2016-12-23,2016-01-14,Physical Surveillance,Pune
+P0063,P0096,Courier Link,0.608,17,2016-05-16,2021-10-17,FIR Linkage,Ranchi
+P0063,P0093,Courier Link,0.689,9,2022-07-12,2022-12-26,Informant Report,Siliguri
+P0064,P0091,Courier Link,0.65,15,2021-04-28,2025-09-21,Digital Forensics,Jodhpur
+P0064,P0102,Courier Link,0.643,13,2021-01-17,2023-06-12,CDR Analysis,Patna
+P0065,P0075,Courier Link,0.685,12,2019-11-27,2022-12-04,Financial Trail,Vijayawada
+P0065,P0092,Courier Link,0.555,17,2016-09-27,2020-01-04,Physical Surveillance,Srinagar
+P0065,P0089,Courier Link,0.515,15,2022-05-24,2022-02-13,Informant Report,Lucknow
+P0066,P0084,Courier Link,0.651,11,2023-05-26,2026-02-25,Seizure Recovery,Ahmedabad
+P0066,P0103,Courier Link,0.618,15,2022-10-27,2024-06-25,Seizure Recovery,Amritsar
+P0066,P0092,Courier Link,0.692,19,2023-04-06,2025-02-18,Digital Forensics,Nagpur
+P0067,P0090,Courier Link,0.647,14,2022-10-14,2023-02-06,Financial Trail,Surat
+P0067,P0077,Courier Link,0.51,15,2022-05-21,2026-02-06,CDR Analysis,Mumbai
+P0067,P0093,Courier Link,0.588,19,2016-11-15,2023-07-18,Seizure Recovery,Delhi
+P0068,P0092,Courier Link,0.586,21,2016-06-11,2017-05-16,Digital Forensics,Srinagar
+P0068,P0075,Courier Link,0.598,13,2023-04-12,2023-05-16,FIR Linkage,Amritsar
+P0068,P0098,Courier Link,0.593,16,2023-03-24,2024-06-12,Physical Surveillance,Lucknow
+P0069,P0076,Courier Link,0.638,16,2016-04-17,2025-07-03,Informant Report,Delhi
+P0069,P0092,Courier Link,0.639,15,2019-06-25,2021-12-25,Seizure Recovery,Lucknow
+P0069,P0087,Courier Link,0.481,19,2020-03-09,2024-09-25,Digital Forensics,Bhubaneswar
+P0070,P0094,Courier Link,0.641,9,2019-08-27,2024-12-24,FIR Linkage,Surat
+P0070,P0102,Courier Link,0.637,19,2016-08-28,2017-02-10,Physical Surveillance,Kolkata
+P0070,P0093,Courier Link,0.64,20,2020-11-22,2025-08-22,FIR Linkage,Lucknow
+P0071,P0097,Courier Link,0.517,13,2017-10-26,2024-11-22,CDR Analysis,Delhi
+P0071,P0084,Courier Link,0.52,9,2019-09-08,2023-12-15,FIR Linkage,Patna
+P0071,P0085,Courier Link,0.586,17,2016-12-01,2019-12-14,Informant Report,Kolkata
+P0083,P0209,Associate,0.297,14,2018-09-15,2023-10-11,Physical Surveillance,Kanpur
+P0098,P0195,Associate,0.332,12,2019-01-13,2025-06-02,FIR Linkage,Mangaluru
+P0075,P0214,Shelter Provider,0.328,16,2023-09-24,2023-07-27,Seizure Recovery,Pune
+P0098,P0197,Shelter Provider,0.254,14,2022-03-26,2023-08-18,Financial Trail,Mumbai
+P0076,P0193,Associate,0.295,11,2016-05-20,2022-05-08,Physical Surveillance,Siliguri
+P0079,P0207,Shelter Provider,0.344,15,2024-11-09,2025-12-17,Physical Surveillance,Mumbai
+P0105,P0107,Gang Member,0.857,12,2021-12-16,2026-01-03,Financial Trail,Guwahati
+P0105,P0108,Gang Member,0.949,7,2019-12-11,2024-02-02,Seizure Recovery,Pune
+P0105,P0109,Gang Member,0.938,17,2018-08-18,2024-06-02,Digital Forensics,Ludhiana
+P0105,P0110,Gang Member,1.0,19,2024-09-23,2024-02-07,Digital Forensics,Vijayawada
+P0105,P0106,Financial,0.962,4,2017-07-01,2019-04-09,Digital Forensics,Srinagar
+P0106,P0107,Financial,0.614,16,2020-09-19,2023-05-18,Physical Surveillance,Ranchi
+P0107,P0126,Gang Member,0.737,19,2023-06-27,2025-03-15,Informant Report,Mumbai
+P0108,P0114,Handler,0.708,16,2018-04-15,2023-04-01,Financial Trail,Chennai
+P0109,P0132,Gang Member,0.822,15,2020-01-15,2020-07-02,Physical Surveillance,Coimbatore
+P0110,P0129,Gang Member,0.695,17,2017-08-12,2017-01-12,Digital Forensics,Kolkata
+P0107,P0129,Communication,0.37,17,2017-12-07,2019-01-21,Informant Report,Jaipur
+P0107,P0121,Gang Member,0.733,18,2023-11-02,2023-08-04,Digital Forensics,Ranchi
+P0108,P0119,Gang Member,0.666,16,2019-08-20,2024-09-10,Seizure Recovery,Pune
+P0109,P0116,Handler,0.736,20,2021-04-15,2026-05-01,Digital Forensics,Ranchi
+P0110,P0116,Communication,0.456,14,2016-03-01,2021-02-08,Financial Trail,Srinagar
+P0110,P0118,Handler,0.642,13,2017-08-20,2017-02-07,Physical Surveillance,Kanpur
+P0107,P0122,Gang Member,0.774,29,2018-03-10,2020-04-06,FIR Linkage,Ludhiana
+P0108,P0131,Gang Member,0.755,12,2016-12-28,2022-05-26,Seizure Recovery,Nagpur
+P0109,P0115,Handler,0.73,16,2019-02-02,2022-01-10,Informant Report,Srinagar
+P0110,P0115,Communication,0.489,18,2019-10-22,2020-09-20,FIR Linkage,Gurugram
+P0110,P0124,Gang Member,0.734,20,2019-09-04,2023-05-22,Seizure Recovery,Jaipur
+P0107,P0124,Communication,0.456,13,2016-09-01,2025-02-23,Informant Report,Varanasi
+P0107,P0120,Gang Member,0.864,11,2017-06-08,2018-03-16,Financial Trail,Amritsar
+P0108,P0113,Gang Member,0.776,10,2019-08-01,2022-03-10,Informant Report,Hyderabad
+P0109,P0113,Communication,0.347,11,2019-02-15,2025-12-02,Financial Trail,Mangaluru
+P0109,P0127,Gang Member,0.581,18,2018-06-26,2022-11-28,Informant Report,Surat
+P0110,P0127,Communication,0.559,15,2024-09-14,2025-12-22,CDR Analysis,Jodhpur
+P0110,P0123,Gang Member,0.771,18,2022-05-01,2024-09-19,Informant Report,Ludhiana
+P0107,P0133,Gang Member,0.741,18,2023-07-21,2025-06-12,Seizure Recovery,Bengaluru
+P0108,P0112,Gang Member,0.848,12,2018-02-11,2019-03-06,Digital Forensics,Siliguri
+P0109,P0112,Communication,0.514,14,2023-02-23,2024-12-28,CDR Analysis,Kolkata
+P0109,P0130,Gang Member,0.635,18,2021-01-06,2021-07-13,FIR Linkage,Bengaluru
+P0110,P0128,Gang Member,0.59,12,2016-02-07,2018-03-18,CDR Analysis,Ranchi
+P0107,P0125,Gang Member,0.712,20,2023-07-21,2026-07-16,Physical Surveillance,Siliguri
+P0108,P0117,Handler,0.725,14,2021-12-08,2024-09-04,Digital Forensics,Amritsar
+P0109,P0111,Gang Member,0.748,13,2017-07-23,2022-03-22,Seizure Recovery,Coimbatore
+P0106,P0130,Co-Accused,0.371,20,2019-08-05,2019-05-14,FIR Linkage,Hyderabad
+P0106,P0133,Associate,0.377,16,2023-07-02,2023-04-22,CDR Analysis,Hyderabad
+P0108,P0127,Communication,0.398,18,2018-12-02,2026-11-21,Physical Surveillance,Kanpur
+P0110,P0132,Communication,0.485,15,2023-08-01,2025-09-13,Seizure Recovery,Bhubaneswar
+P0111,P0127,Communication,0.429,14,2019-04-13,2021-02-09,Financial Trail,Kochi
+P0111,P0130,Communication,0.319,16,2017-01-02,2018-06-08,CDR Analysis,Lucknow
+P0112,P0120,Co-Accused,0.432,15,2024-04-06,2026-05-17,FIR Linkage,Surat
+P0112,P0132,Communication,0.502,10,2023-11-01,2024-01-03,Financial Trail,Jaipur
+P0115,P0123,Associate,0.4,13,2016-08-13,2021-01-27,Informant Report,Amritsar
+P0115,P0125,Associate,0.285,13,2020-02-10,2021-05-10,Informant Report,Patna
+P0116,P0128,Communication,0.291,15,2019-07-22,2026-05-02,Financial Trail,Lucknow
+P0118,P0121,Co-Accused,0.463,12,2024-01-27,2025-10-11,Informant Report,Gurugram
+P0118,P0123,Associate,0.591,18,2024-02-28,2026-11-10,CDR Analysis,Surat
+P0118,P0125,Co-Accused,0.386,18,2024-12-02,2026-08-23,Seizure Recovery,Siliguri
+P0119,P0121,Communication,0.5,15,2024-05-18,2025-03-24,FIR Linkage,Jaipur
+P0120,P0133,Co-Accused,0.464,11,2017-03-03,2017-08-25,CDR Analysis,Kolkata
+P0122,P0127,Associate,0.362,13,2020-10-07,2025-09-16,CDR Analysis,Jaipur
+P0123,P0133,Associate,0.429,14,2016-05-19,2022-02-24,Physical Surveillance,Lucknow
+P0124,P0128,Communication,0.467,16,2021-01-12,2026-04-24,Digital Forensics,Bhubaneswar
+P0124,P0129,Co-Accused,0.329,18,2019-03-09,2023-10-28,CDR Analysis,Ranchi
+P0129,P0131,Associate,0.374,11,2019-03-19,2025-05-16,Digital Forensics,Chennai
+P0114,P0125,Courier Link,0.503,13,2022-08-18,2026-12-14,Digital Forensics,Bengaluru
+P0114,P0129,Courier Link,0.533,7,2021-05-10,2025-07-12,FIR Linkage,Jodhpur
+P0114,P0128,Courier Link,0.597,14,2021-10-11,2026-11-08,Financial Trail,Hyderabad
+P0115,P0127,Courier Link,0.565,12,2024-04-15,2026-07-05,FIR Linkage,Kolkata
+P0115,P0121,Courier Link,0.515,13,2017-05-08,2026-02-16,Informant Report,Patna
+P0115,P0129,Courier Link,0.445,23,2018-08-23,2020-06-19,CDR Analysis,Patna
+P0116,P0120,Courier Link,0.654,20,2017-08-04,2024-04-06,FIR Linkage,Indore
+P0116,P0127,Courier Link,0.685,16,2024-03-17,2024-03-17,Informant Report,Srinagar
+P0116,P0119,Courier Link,0.657,15,2016-01-18,2017-04-28,Seizure Recovery,Thiruvananthapuram
+P0117,P0131,Courier Link,0.521,12,2017-01-15,2023-02-27,Seizure Recovery,Kochi
+P0117,P0126,Courier Link,0.677,20,2021-09-03,2023-02-05,Seizure Recovery,Nagpur
+P0117,P0124,Courier Link,0.637,11,2021-09-18,2021-07-18,FIR Linkage,Amritsar
+P0118,P0133,Courier Link,0.482,8,2021-03-07,2025-06-04,FIR Linkage,Mumbai
+P0118,P0131,Courier Link,0.64,20,2023-03-09,2024-04-26,CDR Analysis,Chennai
+P0118,P0127,Courier Link,0.591,15,2024-08-27,2026-07-03,Financial Trail,Pune
+P0126,P0190,Associate,0.351,15,2016-11-10,2018-06-25,Physical Surveillance,Jaipur
+P0129,P0195,Shelter Provider,0.417,14,2016-12-01,2017-08-02,FIR Linkage,Jodhpur
+P0134,P0136,Gang Member,0.911,14,2024-07-05,2026-12-26,FIR Linkage,Delhi
+P0134,P0137,Gang Member,0.871,6,2021-02-02,2021-01-20,Physical Surveillance,Jodhpur
+P0134,P0135,Financial,0.834,10,2017-08-19,2022-03-04,Financial Trail,Pune
+P0136,P0140,Handler,0.747,16,2018-02-20,2024-06-04,Informant Report,Nagpur
+P0137,P0147,Gang Member,0.773,20,2018-03-15,2018-11-22,Digital Forensics,Gurugram
+P0136,P0143,Gang Member,0.673,17,2020-03-14,2020-03-06,Seizure Recovery,Surat
+P0137,P0150,Gang Member,0.728,11,2020-12-11,2023-10-06,Financial Trail,Thiruvananthapuram
+P0136,P0146,Gang Member,0.908,17,2017-06-07,2022-04-02,FIR Linkage,Kanpur
+P0137,P0146,Communication,0.391,18,2022-09-21,2022-05-27,Digital Forensics,Vijayawada
+P0137,P0145,Gang Member,0.61,12,2022-04-27,2025-06-19,Digital Forensics,Bengaluru
+P0136,P0154,Gang Member,0.65,17,2022-12-16,2023-09-23,Informant Report,Guwahati
+P0137,P0148,Gang Member,0.697,21,2023-11-25,2025-10-14,Financial Trail,Lucknow
+P0136,P0144,Gang Member,0.629,19,2018-04-05,2019-07-19,CDR Analysis,Chennai
+P0137,P0139,Gang Member,0.665,22,2016-08-11,2020-05-22,Informant Report,Jaipur
+P0136,P0152,Gang Member,0.631,22,2020-01-12,2020-07-04,FIR Linkage,Siliguri
+P0137,P0151,Gang Member,0.69,16,2020-12-27,2022-11-09,Informant Report,Gurugram
+P0136,P0151,Communication,0.35,9,2020-01-13,2025-01-06,Physical Surveillance,Vijayawada
+P0136,P0141,Handler,0.647,14,2022-03-12,2022-01-05,Physical Surveillance,Amritsar
+P0137,P0141,Communication,0.504,12,2021-04-04,2021-06-22,Informant Report,Kochi
+P0137,P0149,Gang Member,0.653,19,2022-01-25,2025-06-23,Informant Report,Mumbai
+P0136,P0138,Gang Member,0.602,19,2018-01-21,2020-11-28,CDR Analysis,Varanasi
+P0137,P0153,Gang Member,0.635,12,2018-05-18,2023-09-27,Informant Report,Jodhpur
+P0136,P0142,Handler,0.742,8,2023-08-01,2026-06-06,Physical Surveillance,Guwahati
+P0134,P0148,Associate,0.259,8,2021-07-25,2023-06-02,CDR Analysis,Vijayawada
+P0136,P0147,Associate,0.493,12,2017-07-20,2023-03-02,CDR Analysis,Kanpur
+P0137,P0138,Communication,0.394,15,2021-03-11,2023-06-02,Seizure Recovery,Kochi
+P0138,P0144,Communication,0.209,11,2019-07-03,2024-12-19,FIR Linkage,Guwahati
+P0138,P0153,Co-Accused,0.361,17,2018-09-06,2019-05-11,FIR Linkage,Mangaluru
+P0139,P0150,Co-Accused,0.397,15,2017-07-19,2022-12-23,Physical Surveillance,Bhubaneswar
+P0141,P0148,Communication,0.428,15,2017-10-20,2026-05-14,CDR Analysis,Amritsar
+P0142,P0148,Co-Accused,0.394,15,2021-07-28,2022-05-23,Seizure Recovery,Varanasi
+P0143,P0148,Communication,0.598,11,2016-11-21,2020-09-03,Digital Forensics,Srinagar
+P0144,P0147,Family,0.445,19,2019-07-10,2023-05-09,Financial Trail,Surat
+P0145,P0150,Communication,0.417,13,2019-01-15,2020-01-02,CDR Analysis,Gurugram
+P0149,P0151,Associate,0.353,13,2019-09-18,2023-04-12,Digital Forensics,Thiruvananthapuram
+P0149,P0153,Communication,0.369,19,2018-08-01,2024-11-11,Seizure Recovery,Vijayawada
+P0140,P0148,Courier Link,0.582,18,2018-10-16,2021-03-01,Seizure Recovery,Guwahati
+P0140,P0149,Courier Link,0.528,17,2022-07-16,2023-09-26,Seizure Recovery,Hyderabad
+P0140,P0154,Courier Link,0.632,9,2017-06-16,2018-08-04,Digital Forensics,Ahmedabad
+P0141,P0149,Courier Link,0.462,22,2024-10-19,2024-02-08,Seizure Recovery,Ahmedabad
+P0141,P0151,Courier Link,0.475,13,2017-06-09,2026-10-10,Financial Trail,Chennai
+P0141,P0143,Courier Link,0.555,23,2019-04-13,2019-06-09,CDR Analysis,Nagpur
+P0142,P0145,Courier Link,0.556,10,2017-02-26,2020-11-22,CDR Analysis,Varanasi
+P0142,P0146,Courier Link,0.618,11,2020-11-13,2024-09-20,Physical Surveillance,Thiruvananthapuram
+P0153,P0189,Shelter Provider,0.214,10,2019-03-26,2025-10-01,CDR Analysis,Pune
+P0148,P0201,Associate,0.318,13,2022-06-09,2022-06-03,Seizure Recovery,Lucknow
+P0155,P0157,Gang Member,0.875,9,2024-01-16,2026-05-11,Financial Trail,Kolkata
+P0155,P0158,Gang Member,0.882,4,2016-12-13,2024-10-25,Digital Forensics,Gurugram
+P0155,P0156,Financial,0.935,4,2019-10-25,2023-12-06,FIR Linkage,Amritsar
+P0156,P0158,Financial,0.72,16,2020-04-02,2025-05-02,Seizure Recovery,Nagpur
+P0157,P0159,Gang Member,0.665,15,2022-05-26,2022-05-03,Financial Trail,Bhubaneswar
+P0158,P0165,Gang Member,0.757,18,2016-07-14,2024-08-20,CDR Analysis,Siliguri
+P0157,P0161,Gang Member,0.71,13,2019-06-12,2020-11-01,CDR Analysis,Kolkata
+P0158,P0163,Gang Member,0.652,17,2018-04-21,2023-08-19,Seizure Recovery,Hyderabad
+P0157,P0160,Handler,0.683,8,2020-02-11,2025-06-15,Digital Forensics,Vijayawada
+P0158,P0162,Gang Member,0.732,12,2022-01-05,2023-07-11,Informant Report,Lucknow
+P0157,P0164,Gang Member,0.823,13,2019-07-22,2019-12-02,Seizure Recovery,Indore
+P0158,P0164,Communication,0.393,13,2021-03-09,2026-02-25,FIR Linkage,Lucknow
+P0162,P0165,Associate,0.224,17,2021-05-10,2024-02-15,Physical Surveillance,Srinagar
+P0160,P0165,Courier Link,0.477,11,2017-01-06,2022-11-22,Physical Surveillance,Pune
+P0160,P0163,Courier Link,0.606,13,2023-07-13,2025-10-14,Digital Forensics,Bengaluru
+P0160,P0161,Courier Link,0.611,19,2016-12-01,2026-07-19,Physical Surveillance,Ahmedabad
+P0163,P0215,Shelter Provider,0.239,18,2019-07-20,2022-10-14,Physical Surveillance,Ranchi
+P0166,P0168,Gang Member,0.972,6,2022-09-15,2026-07-24,FIR Linkage,Bengaluru
+P0166,P0169,Gang Member,0.806,14,2020-11-23,2020-05-13,CDR Analysis,Varanasi
+P0166,P0170,Gang Member,0.894,4,2024-03-16,2025-02-02,FIR Linkage,Jodhpur
+P0166,P0167,Financial,0.81,11,2024-05-08,2026-12-15,Financial Trail,Mumbai
+P0167,P0170,Financial,0.708,13,2024-11-17,2026-09-05,Digital Forensics,Ludhiana
+P0168,P0185,Gang Member,0.716,16,2024-02-04,2026-03-03,Seizure Recovery,Varanasi
+P0169,P0179,Gang Member,0.723,15,2022-04-17,2024-12-28,Financial Trail,Bhubaneswar
+P0170,P0179,Communication,0.479,11,2016-09-17,2019-04-28,Informant Report,Kanpur
+P0170,P0173,Handler,0.686,14,2020-02-09,2023-01-24,Informant Report,Guwahati
+P0168,P0172,Gang Member,0.751,14,2018-04-16,2024-05-01,Digital Forensics,Ahmedabad
+P0169,P0183,Gang Member,0.551,9,2021-01-26,2025-04-15,Financial Trail,Bhubaneswar
+P0170,P0187,Gang Member,0.606,18,2024-03-12,2024-03-26,Physical Surveillance,Vijayawada
+P0168,P0171,Gang Member,0.731,17,2021-08-15,2025-11-03,Physical Surveillance,Thiruvananthapuram
+P0169,P0174,Handler,0.632,16,2017-04-19,2023-11-08,Physical Surveillance,Coimbatore
+P0170,P0178,Gang Member,0.663,17,2016-06-25,2020-08-04,CDR Analysis,Jodhpur
+P0168,P0180,Gang Member,0.714,14,2016-08-22,2018-11-10,Physical Surveillance,Amritsar
+P0169,P0175,Handler,0.86,7,2022-10-23,2024-08-24,Seizure Recovery,Patna
+P0170,P0181,Gang Member,0.701,18,2022-02-12,2026-10-07,FIR Linkage,Nagpur
+P0168,P0177,Gang Member,0.799,17,2019-03-13,2022-12-09,Digital Forensics,Guwahati
+P0169,P0177,Communication,0.426,17,2022-06-20,2025-07-04,Informant Report,Thiruvananthapuram
+P0169,P0176,Gang Member,0.693,10,2016-05-05,2025-09-07,Seizure Recovery,Nagpur
+P0170,P0184,Gang Member,0.641,11,2020-12-19,2023-03-23,Seizure Recovery,Jodhpur
+P0168,P0186,Gang Member,0.776,22,2021-07-07,2021-12-03,CDR Analysis,Gurugram
+P0169,P0182,Gang Member,0.799,13,2022-05-07,2023-10-21,FIR Linkage,Bhubaneswar
+P0171,P0178,Communication,0.322,19,2021-02-03,2024-10-13,Digital Forensics,Ludhiana
+P0174,P0179,Associate,0.422,5,2021-03-13,2021-12-19,Digital Forensics,Mumbai
+P0174,P0184,Associate,0.408,15,2022-12-25,2026-05-01,Seizure Recovery,Ranchi
+P0174,P0187,Co-Accused,0.388,15,2019-10-22,2025-06-11,FIR Linkage,Pune
+P0176,P0184,Communication,0.447,10,2018-06-22,2019-11-03,Financial Trail,Indore
+P0177,P0184,Communication,0.309,10,2022-12-23,2022-03-06,Physical Surveillance,Jodhpur
+P0181,P0187,Communication,0.361,8,2024-09-04,2024-09-25,CDR Analysis,Thiruvananthapuram
+P0183,P0186,Co-Accused,0.431,14,2022-07-07,2024-09-15,Digital Forensics,Amritsar
+P0173,P0178,Courier Link,0.635,16,2022-10-14,2023-03-10,CDR Analysis,Bengaluru
+P0173,P0187,Courier Link,0.674,21,2024-01-15,2024-10-24,CDR Analysis,Indore
+P0173,P0179,Courier Link,0.529,12,2022-01-13,2022-03-20,Seizure Recovery,Thiruvananthapuram
+P0174,P0186,Courier Link,0.622,13,2016-02-11,2026-06-28,FIR Linkage,Amritsar
+P0175,P0187,Courier Link,0.698,17,2023-04-19,2026-12-19,Digital Forensics,Kochi
+P0175,P0176,Courier Link,0.667,16,2017-02-01,2026-03-15,Seizure Recovery,Ranchi
+P0175,P0184,Courier Link,0.677,13,2017-05-16,2024-08-26,Physical Surveillance,Coimbatore
+P0180,P0214,Shelter Provider,0.367,15,2018-10-26,2023-02-28,Seizure Recovery,Guwahati
+P0187,P0208,Family,0.262,22,2017-07-13,2026-06-27,Physical Surveillance,Thiruvananthapuram
+P0006,P0221,Financial,0.853,4,2020-11-28,2025-02-27,Informant Report,Kolkata
+P0134,P0221,Financial,0.879,4,2019-12-06,2026-11-27,Physical Surveillance,Bhubaneswar
+P0045,P0222,Financial,0.837,5,2018-12-12,2025-06-18,Financial Trail,Jodhpur
+P0158,P0222,Financial,0.829,4,2024-11-17,2024-01-10,Digital Forensics,Jodhpur
+P0107,P0223,Financial,0.962,3,2019-10-21,2026-08-16,Financial Trail,Ludhiana
+P0168,P0223,Financial,0.716,7,2016-02-22,2025-01-16,FIR Linkage,Kochi
+P0224,P0225,Communication,0.672,18,2020-11-18,2026-07-23,Seizure Recovery,Coimbatore
+P0224,P0226,Co-Accused,0.605,10,2020-05-07,2020-11-11,Physical Surveillance,Lucknow
+P0224,P0227,Gang Member,0.679,9,2024-04-17,2026-02-07,Financial Trail,Jodhpur
+P0224,P0228,Co-Accused,0.611,14,2017-05-18,2017-05-22,Digital Forensics,Lucknow
+P0224,P0229,Gang Member,0.536,24,2017-11-03,2025-11-15,CDR Analysis,Amritsar
+P0224,P0230,Communication,0.636,11,2022-08-04,2022-04-25,Digital Forensics,Ludhiana
+P0224,P0231,Communication,0.524,16,2020-11-07,2024-12-19,Digital Forensics,Indore
+P0225,P0226,Communication,0.55,10,2023-01-21,2024-11-16,CDR Analysis,Coimbatore
+P0225,P0229,Communication,0.69,14,2017-02-11,2024-09-15,Informant Report,Delhi
+P0225,P0230,Gang Member,0.617,13,2021-06-28,2021-09-18,Digital Forensics,Nagpur
+P0226,P0227,Co-Accused,0.65,13,2017-03-03,2026-12-23,Digital Forensics,Jaipur
+P0226,P0228,Co-Accused,0.575,21,2017-12-02,2019-03-22,Physical Surveillance,Delhi
+P0226,P0230,Gang Member,0.562,10,2022-03-04,2022-07-20,Informant Report,Gurugram
+P0226,P0231,Co-Accused,0.677,20,2018-10-09,2024-04-22,FIR Linkage,Ludhiana
+P0227,P0228,Communication,0.542,16,2023-01-25,2026-02-21,Physical Surveillance,Bengaluru
+P0227,P0229,Co-Accused,0.679,16,2022-10-23,2026-06-24,Informant Report,Amritsar
+P0227,P0231,Communication,0.531,20,2023-04-12,2023-03-27,Physical Surveillance,Patna
+P0228,P0229,Co-Accused,0.651,17,2019-05-09,2019-08-05,Informant Report,Pune
+P0228,P0230,Gang Member,0.739,18,2020-11-19,2021-11-05,Physical Surveillance,Delhi
+P0228,P0231,Gang Member,0.464,10,2020-08-23,2026-10-21,Physical Surveillance,Surat
+P0229,P0230,Gang Member,0.603,14,2024-10-22,2024-07-11,Physical Surveillance,Ranchi
+P0229,P0231,Communication,0.66,13,2020-02-06,2021-09-13,Seizure Recovery,Jaipur
+P0134,P0224,Handler,0.966,8,2016-10-06,2026-08-26,Financial Trail,Pune
+P0001,P0232,Financial,0.591,37,2024-02-22,2025-04-07,Seizure Recovery,Ludhiana
+P0106,P0232,Financial,0.697,67,2020-01-25,2025-05-01,Financial Trail,Pune
+P0105,P0232,Financial,0.666,38,2022-06-16,2024-01-09,Seizure Recovery,Pune
+P0156,P0232,Financial,0.628,45,2017-07-07,2025-01-12,FIR Linkage,Ahmedabad
+P0166,P0232,Financial,0.729,42,2023-01-06,2024-05-02,Digital Forensics,Surat
+P0155,P0232,Financial,0.648,74,2017-02-25,2022-04-22,CDR Analysis,Jaipur
+P0134,P0232,Financial,0.599,62,2020-09-25,2023-10-08,Physical Surveillance,Thiruvananthapuram
+P0046,P0232,Financial,0.759,75,2024-06-09,2026-11-08,Physical Surveillance,Chennai
+P0135,P0232,Financial,0.843,31,2021-07-24,2024-12-21,Informant Report,Coimbatore
+P0083,P0233,Handler,0.846,3,2018-07-27,2022-10-24,FIR Linkage,Bengaluru
+P0002,P0234,Communication,0.553,109,2026-04-02,2026-08-15,CDR Analysis,Ludhiana
+P0098,P0234,Communication,0.567,39,2026-04-02,2026-08-15,CDR Analysis,Ludhiana
+P0058,P0234,Communication,0.605,30,2026-04-02,2026-08-15,CDR Analysis,Ludhiana
+P0019,P0234,Communication,0.708,31,2026-04-02,2026-08-15,CDR Analysis,Ludhiana
+P0026,P0234,Communication,0.574,88,2026-04-02,2026-08-15,CDR Analysis,Ludhiana
+P0088,P0234,Communication,0.6,61,2026-04-02,2026-08-15,CDR Analysis,Ludhiana
+P0024,P0234,Communication,0.654,75,2026-04-02,2026-08-15,CDR Analysis,Ludhiana
+P0162,P0188,Family,0.309,24,2017-05-28,2018-05-05,CDR Analysis,Siliguri
+P0008,P0191,Associate,0.293,11,2018-06-08,2022-03-02,Physical Surveillance,Jaipur
+P0038,P0192,Associate,0.38,7,2022-07-09,2026-12-03,CDR Analysis,Siliguri
+P0081,P0194,Shelter Provider,0.17,11,2016-02-14,2020-12-10,FIR Linkage,Bengaluru
+P0024,P0199,Shelter Provider,0.27,13,2023-06-20,2026-12-14,FIR Linkage,Ludhiana
+P0150,P0200,Family,0.368,14,2021-10-08,2024-12-24,CDR Analysis,Mangaluru
+P0018,P0202,Associate,0.181,12,2024-04-14,2024-03-14,Financial Trail,Surat
+P0099,P0203,Associate,0.307,17,2019-04-13,2025-04-22,Physical Surveillance,Lucknow
+P0087,P0204,Shelter Provider,0.188,17,2022-06-11,2026-12-27,Seizure Recovery,Srinagar
+P0107,P0205,Shelter Provider,0.399,14,2017-03-16,2019-05-09,Financial Trail,Nagpur
+P0037,P0206,Associate,0.355,15,2017-01-11,2018-12-28,Seizure Recovery,Kochi
+P0024,P0210,Family,0.216,17,2021-02-27,2026-02-08,CDR Analysis,Hyderabad
+P0168,P0211,Family,0.356,19,2017-01-19,2018-07-14,Physical Surveillance,Lucknow
+P0044,P0212,Associate,0.379,12,2022-11-21,2026-01-12,FIR Linkage,Varanasi
+P0006,P0213,Family,0.319,15,2023-04-18,2026-12-22,Physical Surveillance,Ahmedabad
+P0021,P0216,Family,0.364,14,2022-01-18,2023-04-20,Digital Forensics,Pune
+P0137,P0217,Shelter Provider,0.199,18,2019-05-20,2025-05-23,CDR Analysis,Mumbai
+P0020,P0218,Associate,0.325,19,2016-01-14,2020-08-11,CDR Analysis,Kochi
+P0130,P0219,Shelter Provider,0.366,20,2018-07-01,2024-09-25,CDR Analysis,Bhubaneswar
+P0007,P0220,Shelter Provider,0.174,13,2016-03-14,2026-12-08,Financial Trail,Kanpur

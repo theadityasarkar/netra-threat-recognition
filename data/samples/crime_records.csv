@@ -1,0 +1,106 @@
+case_id,fir_number,crime_type,date,city,state,severity,status,persons_involved
+C00001,FIR/2022/930/58,Cyber Fraud,2022-03-04,Srinagar,Jammu & Kashmir,2,Under Investigation,P0112; P0118; P0132; P0105
+C00002,FIR/2026/854/08,Organised Robbery,2026-03-21,Bengaluru,Karnataka,2,Trial Ongoing,P0158; P0161; P0155; P0177
+C00003,FIR/2025/566/49,Commercial Sexual Exploitation,2025-05-05,Jaipur,Rajasthan,4,Trial Ongoing,P0150
+C00004,FIR/2026/942/69,Online Sexual Harassment,2026-08-13,Delhi,Delhi,4,Under Investigation,P0154; P0141; P0144; P0140; P0139
+C00005,FIR/2021/633/22,Counterfeit Currency,2021-10-06,Vijayawada,Andhra Pradesh,4,Under Investigation,P0086; P0099; P0054; P0068
+C00006,FIR/2023/596/55,Money Laundering,2023-04-14,Ranchi,Jharkhand,3,Trial Ongoing,P0181
+C00007,FIR/2025/474/89,Hawala Operation,2025-04-27,Guwahati,Assam,5,Charge-sheeted,P0183; P0170; P0172; P0182
+C00008,FIR/2025/673/07,Human Trafficking,2025-05-23,Surat,Gujarat,4,Under Investigation,P0128; P0133
+C00009,FIR/2022/688/49,Narcotics Trafficking,2022-12-19,Surat,Gujarat,5,Trial Ongoing,P0043; P0015; P0038; P0007
+C00010,FIR/2021/738/20,Arms Smuggling,2021-11-08,Indore,Madhya Pradesh,5,Trial Ongoing,P0057; P0058; P0091; P0062
+C00011,FIR/2023/773/52,Hawala Operation,2023-12-16,Lucknow,Uttar Pradesh,4,Charge-sheeted,P0174; P0173; P0178
+C00012,FIR/2025/731/63,Extortion,2025-11-10,Mangaluru,Karnataka,4,Trial Ongoing,P0165; P0156; P0159; P0155
+C00013,FIR/2026/942/40,Cyber Fraud,2026-12-13,Surat,Gujarat,4,Trial Ongoing,P0111; P0116; P0118
+C00014,FIR/2025/770/18,Money Laundering,2025-03-17,Pune,Maharashtra,3,Under Investigation,P0186; P0172
+C00015,FIR/2023/911/06,Counterfeit Currency,2023-12-03,Guwahati,Assam,3,Under Investigation,P0073; P0051; P0070; P0087; P0047; P0097
+C00016,FIR/2021/997/68,Organised Robbery,2021-06-20,Kanpur,Uttar Pradesh,4,Under Investigation,P0155; P0165; P0161; P0160; P0182
+C00017,FIR/2022/620/33,Cyber Fraud,2022-06-24,Nagpur,Maharashtra,4,Under Investigation,P0133; P0105; P0128
+C00018,FIR/2025/751/61,Hawala Operation,2025-12-16,Delhi,Delhi,3,Trial Ongoing,P0178; P0172
+C00019,FIR/2021/161/44,Organised Robbery,2021-08-01,Patna,Bihar,4,Under Investigation,P0160; P0161; P0164
+C00020,FIR/2023/129/52,Extortion,2023-12-17,Pune,Maharashtra,5,Trial Ongoing,P0159; P0165; P0155; P0163
+C00021,FIR/2026/701/96,Cyber Fraud,2026-09-10,Pune,Maharashtra,2,Under Investigation,P0122; P0117; P0125
+C00022,FIR/2023/104/48,Cyber Fraud,2023-12-21,Srinagar,Jammu & Kashmir,2,Charge-sheeted,P0122; P0120; P0118; P0107; P0110; P0124
+C00023,FIR/2026/496/47,Arms Smuggling,2026-04-17,Nagpur,Maharashtra,5,Charge-sheeted,P0100; P0071; P0055; P0058; P0083; P0094
+C00024,FIR/2026/665/53,Money Laundering,2026-05-13,Ranchi,Jharkhand,5,Charge-sheeted,P0179
+C00025,FIR/2022/430/71,Extortion,2022-11-06,Amritsar,Punjab,3,Under Investigation,P0163
+C00026,FIR/2024/655/51,Arms Smuggling,2024-07-11,Mumbai,Maharashtra,5,Trial Ongoing,P0088; P0091; P0084; P0065; P0095; P0103; P0076
+C00027,FIR/2023/404/59,Arms Smuggling,2023-07-23,Gurugram,Haryana,4,Under Investigation,P0068; P0095; P0089; P0047; P0103; P0112
+C00028,FIR/2026/742/22,Extortion,2026-08-26,Kanpur,Uttar Pradesh,3,Charge-sheeted,P0159; P0156; P0162
+C00029,FIR/2022/511/74,Organised Robbery,2022-07-21,Indore,Madhya Pradesh,4,Trial Ongoing,P0159; P0160; P0161; P0165; P0158; P0162; P0163
+C00030,FIR/2025/570/50,Cyber Fraud,2025-06-22,Siliguri,West Bengal,3,Charge-sheeted,P0121; P0111; P0117; P0123; P0115; P0110; P0118
+C00031,FIR/2022/543/25,Hawala Operation,2022-05-04,Jaipur,Rajasthan,5,Trial Ongoing,P0175; P0170; P0181; P0169
+C00032,FIR/2025/896/66,Hawala Operation,2025-07-06,Ranchi,Jharkhand,3,Charge-sheeted,P0167; P0168; P0187; P0171
+C00033,FIR/2026/712/26,Arms Smuggling,2026-07-24,Kochi,Kerala,5,Under Investigation,P0074; P0056
+C00034,FIR/2022/170/45,Human Trafficking,2022-09-27,Vijayawada,Andhra Pradesh,4,Under Investigation,P0061; P0103; P0074; P0049; P0094
+C00035,FIR/2021/625/92,Extortion,2021-03-28,Patna,Bihar,5,Charge-sheeted,P0164
+C00036,FIR/2025/554/29,Abduction of Women,2025-07-20,Varanasi,Uttar Pradesh,5,Charge-sheeted,P0078; P0082; P0081; P0069; P0056
+C00037,FIR/2025/649/53,Extortion,2025-07-20,Indore,Madhya Pradesh,5,Charge-sheeted,P0156; P0161
+C00038,FIR/2021/492/56,Human Trafficking,2021-03-19,Amritsar,Punjab,4,Under Investigation,P0135; P0142; P0154; P0143; P0136
+C00039,FIR/2024/345/98,Money Laundering,2024-03-04,Lucknow,Uttar Pradesh,4,Charge-sheeted,P0166; P0183
+C00040,FIR/2022/545/21,Money Laundering,2022-05-18,Surat,Gujarat,4,Under Investigation,P0107; P0122; P0124; P0106; P0127
+C00041,FIR/2024/162/69,Money Laundering,2024-01-03,Ranchi,Jharkhand,5,Under Investigation,P0117; P0129
+C00042,FIR/2025/408/61,Narcotics Trafficking,2025-05-16,Siliguri,West Bengal,4,Under Investigation,P0043; P0014; P0001
+C00043,FIR/2022/258/51,Organised Robbery,2022-09-14,Coimbatore,Tamil Nadu,2,Trial Ongoing,P0162; P0155; P0165; P0160
+C00044,FIR/2025/277/20,Money Laundering,2025-07-16,Coimbatore,Tamil Nadu,5,Closed,P0018; P0035; P0041
+C00045,FIR/2025/127/03,Money Laundering,2025-01-18,Srinagar,Jammu & Kashmir,3,Under Investigation,P0038; P0013
+C00046,FIR/2024/465/44,Domestic Violence Ring,2024-01-25,Ahmedabad,Gujarat,5,Under Investigation,P0159; P0162; P0164; P0156
+C00047,FIR/2024/443/41,Human Trafficking,2024-03-08,Vijayawada,Andhra Pradesh,4,Under Investigation,P0136; P0137; P0154; P0140; P0142
+C00048,FIR/2026/788/42,Narcotics Trafficking,2026-06-10,Nagpur,Maharashtra,4,Closed,P0014; P0013; P0032; P0017; P0001; P0020; P0007
+C00049,FIR/2023/647/15,Organised Robbery,2023-07-20,Ranchi,Jharkhand,4,Under Investigation,P0157; P0161; P0160
+C00050,FIR/2024/685/41,Hawala Operation,2024-07-03,Patna,Bihar,4,Under Investigation,P0167; P0175; P0176; P0184; P0183; P0170
+C00051,FIR/2023/454/20,Cyber Stalking,2023-05-21,Kanpur,Uttar Pradesh,3,Under Investigation,P0181; P0172; P0187
+C00052,FIR/2025/714/66,Trafficking of Women,2025-06-15,Thiruvananthapuram,Kerala,5,Charge-sheeted,P0061; P0054; P0098
+C00053,FIR/2025/723/09,Organised Robbery,2025-09-16,Indore,Madhya Pradesh,3,Charge-sheeted,P0161; P0157; P0155
+C00054,FIR/2021/992/87,Counterfeit Currency,2021-08-13,Kanpur,Uttar Pradesh,4,Trial Ongoing,P0057; P0069
+C00055,FIR/2021/871/50,Narcotics Trafficking,2021-06-11,Guwahati,Assam,5,Under Investigation,P0021; P0024; P0016; P0001; P0030
+C00056,FIR/2022/238/30,Cyber Fraud,2022-02-03,Bhubaneswar,Odisha,3,Charge-sheeted,P0118; P0126; P0111
+C00057,FIR/2023/928/98,Narcotics Trafficking,2023-03-21,Ranchi,Jharkhand,4,Charge-sheeted,P0038; P0004; P0026; P0044
+C00058,FIR/2022/254/78,Hawala Operation,2022-08-17,Mumbai,Maharashtra,4,Closed,P0171; P0166; P0186; P0044
+C00059,FIR/2022/371/77,Money Laundering,2022-07-08,Coimbatore,Tamil Nadu,4,Trial Ongoing,P0169; P0166; P0179; P0175
+C00060,FIR/2024/566/31,Money Laundering,2024-10-06,Surat,Gujarat,4,Under Investigation,P0018; P0011; P0026
+C00061,FIR/2025/364/39,Narcotics Trafficking,2025-09-27,Ranchi,Jharkhand,4,Trial Ongoing,P0031; P0027
+C00062,FIR/2025/684/23,Human Trafficking,2025-11-09,Coimbatore,Tamil Nadu,4,Charge-sheeted,P0151; P0140; P0141; P0152; P0137; P0148; P0144
+C00063,FIR/2021/806/83,Hawala Operation,2021-04-18,Lucknow,Uttar Pradesh,5,Charge-sheeted,P0186; P0176; P0167
+C00064,FIR/2021/461/31,Extortion,2021-10-17,Thiruvananthapuram,Kerala,3,Trial Ongoing,P0156; P0158; P0160; P0165; P0162
+C00065,FIR/2026/339/12,Narcotics Trafficking,2026-04-07,Jodhpur,Rajasthan,5,Under Investigation,P0028
+C00066,FIR/2023/687/22,Narcotics Trafficking,2023-07-22,Indore,Madhya Pradesh,5,Charge-sheeted,P0033
+C00067,FIR/2025/860/18,Money Laundering,2025-08-13,Ranchi,Jharkhand,5,Closed,P0182
+C00068,FIR/2021/141/61,Hawala Operation,2021-09-27,Surat,Gujarat,4,Trial Ongoing,P0183; P0187; P0177; P0169; P0170; P0186
+C00069,FIR/2026/595/50,Matrimonial Fraud,2026-12-20,Coimbatore,Tamil Nadu,3,Trial Ongoing,P0144; P0137; P0154; P0152
+C00070,FIR/2024/613/55,Arms Smuggling,2024-03-11,Ludhiana,Punjab,5,Charge-sheeted,P0089
+C00071,FIR/2022/173/66,Organised Robbery,2022-05-11,Lucknow,Uttar Pradesh,2,Under Investigation,P0157; P0163; P0160; P0161; P0155
+C00072,FIR/2022/898/74,Kidnapping,2022-03-27,Surat,Gujarat,5,Under Investigation,P0148; P0140; P0153
+C00073,FIR/2026/260/10,Human Trafficking,2026-08-09,Jaipur,Rajasthan,4,Charge-sheeted,P0148; P0153; P0146; P0142; P0137; P0144
+C00074,FIR/2022/919/15,Illegal Betting,2022-12-23,Thiruvananthapuram,Kerala,3,Under Investigation,P0157; P0160; P0163; P0161; P0162; P0165
+C00075,FIR/2024/563/97,Money Laundering,2024-08-21,Jodhpur,Rajasthan,4,Trial Ongoing,P0006; P0037; P0032; P0031; P0039
+C00076,FIR/2024/956/84,Cyber Fraud,2024-06-07,Bengaluru,Karnataka,4,Trial Ongoing,P0113; P0128; P0125
+C00077,FIR/2026/144/19,Narcotics Trafficking,2026-12-12,Ahmedabad,Gujarat,5,Under Investigation,P0023; P0027; P0013; P0014
+C00078,FIR/2022/392/65,Human Trafficking,2022-07-04,Siliguri,West Bengal,5,Under Investigation,P0148; P0149; P0136
+C00079,FIR/2025/614/66,Commercial Sexual Exploitation,2025-12-25,Patna,Bihar,4,Under Investigation,P0160; P0164; P0157; P0158; P0159
+C00080,FIR/2022/361/68,Extortion,2022-07-02,Ludhiana,Punjab,5,Trial Ongoing,P0089; P0083; P0071
+C00081,FIR/2024/462/51,Organised Robbery,2024-08-05,Ranchi,Jharkhand,4,Under Investigation,P0159; P0155; P0157; P0156; P0160; P0165
+C00082,FIR/2026/940/13,Money Laundering,2026-05-25,Nagpur,Maharashtra,3,Trial Ongoing,P0010; P0023; P0093
+C00083,FIR/2026/382/15,Money Laundering,2026-12-12,Ranchi,Jharkhand,5,Trial Ongoing,P0117; P0123
+C00084,FIR/2023/621/57,Money Laundering,2023-07-05,Delhi,Delhi,3,Closed,P0132; P0123; P0127; P0114
+C00085,FIR/2021/393/29,Narcotics Trafficking,2021-08-12,Guwahati,Assam,4,Charge-sheeted,P0034; P0033; P0037; P0019
+C00086,FIR/2026/114/28,Narcotics Trafficking,2026-06-18,Surat,Gujarat,4,Under Investigation,P0012; P0073
+C00087,FIR/2024/970/01,Organised Robbery,2024-11-06,Varanasi,Uttar Pradesh,2,Charge-sheeted,P0162; P0164; P0163; P0161
+C00088,FIR/2022/952/82,Extortion,2022-04-16,Kolkata,West Bengal,5,Trial Ongoing,P0160; P0165; P0161; P0156
+C00089,FIR/2026/408/19,Extortion,2026-09-08,Patna,Bihar,5,Under Investigation,P0163; P0165
+C00090,FIR/2026/214/44,Kidnapping,2026-12-19,Ranchi,Jharkhand,4,Charge-sheeted,P0142; P0149; P0145; P0141
+C00091,FIR/2023/766/61,Counterfeit Currency,2023-09-20,Pune,Maharashtra,4,Closed,P0074; P0073; P0055
+C00092,FIR/2022/608/88,Hawala Operation,2022-11-24,Amritsar,Punjab,4,Under Investigation,P0171; P0169
+C00093,FIR/2026/425/38,Counterfeit Currency,2026-05-24,Lucknow,Uttar Pradesh,5,Under Investigation,P0055; P0073; P0077; P0108
+C00094,FIR/2026/139/32,Organised Robbery,2026-06-07,Chennai,Tamil Nadu,2,Closed,P0165; P0158
+C00095,FIR/2023/625/14,Kidnapping,2023-10-12,Delhi,Delhi,4,Under Investigation,P0143; P0138
+C00096,FIR/2022/284/92,Money Laundering,2022-01-15,Gurugram,Haryana,5,Trial Ongoing,P0114; P0113; P0105; P0111; P0119
+C00097,FIR/2024/169/60,Money Laundering,2024-08-15,Srinagar,Jammu & Kashmir,3,Charge-sheeted,P0186; P0171; P0181
+C00098,FIR/2023/297/60,Human Trafficking,2023-01-24,Kanpur,Uttar Pradesh,4,Charge-sheeted,P0140; P0153; P0143
+C00099,FIR/2022/370/12,Human Trafficking,2022-04-11,Mangaluru,Karnataka,5,Closed,P0136; P0143; P0141
+C00100,FIR/2025/877/07,Money Laundering,2025-11-19,Pune,Maharashtra,5,Charge-sheeted,P0114; P0115; P0106; P0110; P0112; P0124
+C00101,FIR/2026/454/33,Money Laundering,2026-09-04,Srinagar,Jammu & Kashmir,4,Under Investigation,P0007
+C00102,FIR/2023/470/83,Money Laundering,2023-09-16,Surat,Gujarat,3,Charge-sheeted,P0186; P0169; P0187
+C00103,FIR/2026/334/82,Money Laundering,2026-03-22,Ahmedabad,Gujarat,5,Trial Ongoing,P0027; P0029; P0033; P0013
+C00104,FIR/2021/217/47,Arms Smuggling,2021-03-07,Indore,Madhya Pradesh,5,Under Investigation,P0104; P0080; P0093
+C00105,FIR/2026/680/97,Narcotics Trafficking,2026-05-28,Nagpur,Maharashtra,5,Charge-sheeted,P0127; P0125

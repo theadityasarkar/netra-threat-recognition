@@ -1,0 +1,36 @@
+# NETRA — Render Blueprint (Infrastructure as Code).
+# SIH 2026 · PS 26189 · Ministry of Home Affairs · NCRB Women Safety Division
+#
+# One-click deploy: push to GitHub, then on render.com choose
+#   New +  →  Blueprint  →  point it at this repo.
+# Render reads this file and provisions the service below with no dashboard clicks.
+#
+# This uses Render's native Python runtime (no Docker build minutes). To deploy the
+# container image in Dockerfile instead, replace `runtime: python` + build/start
+# commands with `runtime: docker` and `dockerfilePath: ./Dockerfile`.
+
+services:
+  - type: web
+    name: netra
+    runtime: python
+    plan: free                         # Render free web-service tier
+    region: singapore                  # closest free region to India; change if needed
+    buildCommand: pip install -r requirements.txt
+    # $PORT is injected by Render; the health check hits Streamlit's own endpoint.
+    startCommand: >-
+      streamlit run app.py
+      --server.port $PORT
+      --server.address 0.0.0.0
+      --server.headless true
+      --browser.gatherUsageStats false
+    healthCheckPath: /_stcore/health
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.8"
+      # Free-tier disk is ephemeral; /tmp is writable. storage_mode() detects the
+      # RENDER env var (set automatically) and reports the case store as ephemeral.
+      - key: NETRA_DB_PATH
+        value: /tmp/netra.db
+      - key: STREAMLIT_BROWSER_GATHER_USAGE_STATS
+        value: "false"

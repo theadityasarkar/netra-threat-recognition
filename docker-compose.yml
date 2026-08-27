@@ -1,0 +1,69 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# NETRA — Docker Compose (VPS self-hosting)
+# SIH 2026 · PS 26189 · Ministry of Home Affairs · NCRB Women Safety Division
+#
+#   docker compose up -d --build        # start
+#   docker compose logs -f              # follow logs
+#   docker compose down                 # stop (named volume survives)
+#
+# Then open http://<vps-ip>:8501
+# ─────────────────────────────────────────────────────────────────────────────
+
+services:
+  netra:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: netra:2.0.0
+    container_name: netra
+
+    ports:
+      # host:container — change the host side to sit behind a reverse proxy.
+      - "8501:8501"
+
+    environment:
+      # SQLite case registry. Points into the named volume so analysis runs,
+      # alerts and the audit trail survive a container rebuild.
+      NETRA_DB_PATH: /app/data/netra.db
+      # Set to 0 to run fully stateless (e.g. a read-only root filesystem).
+      NETRA_DB_ENABLED: "1"
+      STREAMLIT_SERVER_HEADLESS: "true"
+      STREAMLIT_BROWSER_GATHER_USAGE_STATS: "false"
+
+    volumes:
+      # Named volume, not a bind mount: keeps the UID mapping correct for the
+      # unprivileged `netra` user regardless of the host's ownership.
+      - netra-data:/app/data
+
+    restart: unless-stopped
+
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "--silent", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 5s
+      start_period: 25s
+      retries: 3
+
+    # Modest ceilings so a runaway analysis on a large upload cannot take the
+    # whole VPS down. Raise `memory` before analysing networks above ~20k nodes.
+    deploy:
+      resources:
+        limits:
+          cpus: "2.0"
+          memory: 2G
+        reservations:
+          memory: 512M
+
+    # Defence in depth: the app never needs new privileges.
+    security_opt:
+      - no-new-privileges:true
+
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+volumes:
+  netra-data:
+    driver: local
