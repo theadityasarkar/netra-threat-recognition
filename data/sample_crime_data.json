@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {"id": "P-101", "name": "Vikram @ Cobra Singh", "type": "Person", "risk_score": 95, "role": "Syndicate Kingpin", "location": "Delhi NCR", "details": "Prime accused in multi-state human trafficking & extortion module. Linked to 8 FIRs."},
+    {"id": "P-102", "name": "Meena @ Rose Madam", "type": "Person", "risk_score": 88, "role": "Financial Handler & Recruiter", "location": "Mumbai", "details": "Manages money laundering channels & victim fake documentations."},
+    {"id": "P-103", "name": "Rahul 'Shadow' Sharma", "type": "Person", "risk_score": 82, "role": "Cyber Operative & Tracker", "location": "Gurugram", "details": "Executes cyber harassment, victim blackmailing, and encrypted communication setups."},
+    {"id": "P-104", "name": "Anil 'Courier' Kumar", "type": "Person", "risk_score": 75, "role": "Logistics & Transport Operator", "location": "Jaipur", "details": "Arranges illegal border transport and safehouses across Rajasthan."},
+    {"id": "P-105", "name": "Rajesh @ Doctor Varma", "type": "Person", "risk_score": 70, "role": "Document Forger", "location": "Noida", "details": "Provides forged Aadhaar, passports, and fake bank accounts."},
+    {"id": "P-106", "name": "Suresh 'Agent' Patel", "type": "Person", "risk_score": 64, "role": "Local Sub-agent", "location": "Ahmedabad", "details": "Operates local fake job recruitment front for vulnerable women."},
+    {"id": "P-107", "name": "Pooja 'Alias Maya' Roy", "type": "Person", "risk_score": 58, "role": "Honey-trap Operative", "location": "Kolkata", "details": "Target recruiter operating on social media platforms."},
+    {"id": "P-108", "name": "Deepak 'Driver' Gujjar", "type": "Person", "risk_score": 52, "role": "Vehicle Transport", "location": "Meerut", "details": "Drives illicit transport vehicles for interstate movement."},
+
+    {"id": "CDR-99881", "name": "+91-98765-01001", "type": "Phone", "risk_score": 90, "role": "Encrypted Burner Phone", "location": "Delhi", "details": "1,450 calls logged over 30 days. High correlation with crime timestamps."},
+    {"id": "CDR-99882", "name": "+91-98765-01002", "type": "Phone", "risk_score": 78, "role": "Operational Line", "location": "Mumbai", "details": "Used for money transfer SMS notifications and sub-agent calls."},
+    {"id": "CDR-99883", "name": "+91-98765-01003", "type": "Phone", "risk_score": 70, "role": "Secondary Burner", "location": "Gurugram", "details": "VOIP gateway connection trace."},
+    {"id": "CDR-99884", "name": "+91-98765-01004", "type": "Phone", "risk_score": 60, "role": "Logistics Dispatcher", "location": "Jaipur", "details": "Coordinates vehicle check-in calls."},
+
+    {"id": "BNK-40401", "name": "HDFC-Acc-992019", "type": "Bank Account", "risk_score": 85, "role": "Mule Account", "location": "Delhi Main Branch", "details": "INR 42 Lakhs transferred via micro-transactions (Smurfing pattern)."},
+    {"id": "BNK-40402", "name": "ICICI-Acc-883102", "type": "Bank Account", "risk_score": 80, "role": "Shell Corp Holding", "location": "Mumbai South", "details": "High volume foreign wire transfers."},
+    {"id": "BNK-40403", "name": "SBI-Acc-110293", "type": "Bank Account", "risk_score": 65, "role": "Crypto P2P Layering", "location": "Noida", "details": "Linked to USDT exchange cash-outs."},
+
+    {"id": "LOC-DEL", "name": "Mahipalpur Transit Hub", "type": "Location", "risk_score": 88, "role": "Safehouse & Transit Base", "location": "South Delhi", "details": "Geofence hotspot for 6 suspect CDRs."},
+    {"id": "LOC-GUR", "name": "Cyber City Tower 4", "type": "Location", "risk_score": 72, "role": "Fake Call Center Front", "location": "Gurugram", "details": "Underground call center used for extortion operations."},
+    {"id": "LOC-JAI", "name": "Highway Motel Hub", "type": "Location", "risk_score": 68, "role": "Interstate Depot", "location": "Jaipur Bypass", "details": "Staging area for suspect transport vehicles."},
+
+    {"id": "VEH-01", "name": "DL-01-AB-9921 (SUV)", "type": "Vehicle", "risk_score": 82, "role": "Black SUV", "location": "Delhi-NCR", "details": "Spotted on toll plaza ANPR cameras during incident windows."},
+    {"id": "VEH-02", "name": "RJ-14-CC-4012 (Van)", "type": "Vehicle", "risk_score": 75, "role": "Commercial Transport Van", "location": "Jaipur Route", "details": "Fake registration plate identified."},
+
+    {"id": "FIR-2026-0091", "name": "FIR #91/2026 (Women Safety Div)", "type": "FIR Case File", "risk_score": 95, "role": "Major Organized Crime FIR", "location": "NCRB HQ", "details": "Interstate trafficking & extortion network under IPC / BNS Sections 370, 384, 120B."},
+    {"id": "FIR-2026-0142", "name": "FIR #142/2026 (Cyber Cell)", "type": "FIR Case File", "risk_score": 85, "role": "Cyber Extortion FIR", "location": "Delhi Special Cell", "details": "Deepfake harassment & illegal loan app blackmail racket."}
+  ],
+  "edges": [
+    {"source": "P-101", "target": "P-102", "type": "ASSOCIATE_OF", "weight": 9, "timestamp": "2026-01-12", "details": "Direct co-conspirators in syndicate operations"},
+    {"source": "P-101", "target": "P-103", "type": "ASSOCIATE_OF", "weight": 8, "timestamp": "2026-01-15", "details": "Directs cyber extortion ops"},
+    {"source": "P-101", "target": "P-104", "type": "ASSOCIATE_OF", "weight": 7, "timestamp": "2026-01-18", "details": "Logistics handler assignment"},
+    {"source": "P-102", "target": "P-105", "type": "ASSOCIATE_OF", "weight": 6, "timestamp": "2026-01-20", "details": "Orders fake documentation sets"},
+    {"source": "P-102", "target": "P-106", "type": "ASSOCIATE_OF", "weight": 6, "timestamp": "2026-02-01", "details": "Recruitment sub-agent coordination"},
+    {"source": "P-103", "target": "P-107", "type": "ASSOCIATE_OF", "weight": 7, "timestamp": "2026-02-05", "details": "Social media trap coordination"},
+    {"source": "P-104", "target": "P-108", "type": "ASSOCIATE_OF", "weight": 5, "timestamp": "2026-02-10", "details": "Vehicle routing instructions"},
+
+    {"source": "P-101", "target": "CDR-99881", "type": "USES_PHONE", "weight": 10, "timestamp": "2026-02-12", "details": "Primary burner line used by Cobra Singh"},
+    {"source": "P-102", "target": "CDR-99882", "type": "USES_PHONE", "weight": 9, "timestamp": "2026-02-14", "details": "Operational line for Rose Madam"},
+    {"source": "P-103", "target": "CDR-99883", "type": "USES_PHONE", "weight": 8, "timestamp": "2026-02-15", "details": "VOIP gateway control line"},
+    {"source": "P-104", "target": "CDR-99884", "type": "USES_PHONE", "weight": 7, "timestamp": "2026-02-16", "details": "Driver dispatch line"},
+
+    {"source": "CDR-99881", "target": "CDR-99882", "type": "CALL_TO", "weight": 10, "timestamp": "2026-02-18", "details": "342 encrypted calls logged"},
+    {"source": "CDR-99881", "target": "CDR-99883", "type": "CALL_TO", "weight": 8, "timestamp": "2026-02-19", "details": "180 call logs"},
+    {"source": "CDR-99882", "target": "CDR-99884", "type": "CALL_TO", "weight": 6, "timestamp": "2026-02-20", "details": "85 call logs"},
+
+    {"source": "P-101", "target": "BNK-40401", "type": "MONEY_TRANSFER", "weight": 10, "timestamp": "2026-02-21", "details": "INR 25 Lakhs illicit payout"},
+    {"source": "P-102", "target": "BNK-40401", "type": "MONEY_TRANSFER", "weight": 9, "timestamp": "2026-02-22", "details": "INR 17 Lakhs layering deposit"},
+    {"source": "BNK-40401", "target": "BNK-40402", "type": "MONEY_TRANSFER", "weight": 9, "timestamp": "2026-02-23", "details": "Smurfing transfer loop"},
+    {"source": "P-105", "target": "BNK-40403", "type": "MONEY_TRANSFER", "weight": 6, "timestamp": "2026-02-24", "details": "Document fee payouts"},
+
+    {"source": "P-101", "target": "LOC-DEL", "type": "FREQUENT_LOCATION", "weight": 9, "timestamp": "2026-02-25", "details": "Geofence match 45 times"},
+    {"source": "P-103", "target": "LOC-GUR", "type": "FREQUENT_LOCATION", "weight": 8, "timestamp": "2026-02-25", "details": "Call center base"},
+    {"source": "P-104", "target": "LOC-JAI", "type": "FREQUENT_LOCATION", "weight": 7, "timestamp": "2026-02-26", "details": "Highway transit point"},
+
+    {"source": "P-101", "target": "VEH-01", "type": "USED_VEHICLE", "weight": 9, "timestamp": "2026-02-26", "details": "ANPR toll camera capture"},
+    {"source": "P-104", "target": "VEH-02", "type": "USED_VEHICLE", "weight": 7, "timestamp": "2026-02-26", "details": "Transport van registration link"},
+
+    {"source": "P-101", "target": "FIR-2026-0091", "type": "MENTIONED_IN_FIR", "weight": 10, "timestamp": "2026-02-27", "details": "Named as Prime Accused A1"},
+    {"source": "P-102", "target": "FIR-2026-0091", "type": "MENTIONED_IN_FIR", "weight": 9, "timestamp": "2026-02-27", "details": "Named as Accused A2"},
+    {"source": "P-103", "target": "FIR-2026-0142", "type": "MENTIONED_IN_FIR", "weight": 8, "timestamp": "2026-02-27", "details": "Cyber extortion perpetrator A1"}
+  ]
+}
